@@ -16,7 +16,8 @@
 			* faktische Aktualität
 				Suchen nach aktuellen Informationen die keine Interpretation zulassen. zb. Wetter, Aktienmarkt, ...
 
-```graph TD
+```
+graph TD
     A[Query] --> B[Nicht zeitlich]
     A --> C[Zeitlich]
     
