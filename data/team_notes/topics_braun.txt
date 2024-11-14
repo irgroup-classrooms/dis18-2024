@@ -1,0 +1,28 @@
+Kategorie: Nicht zeitlich
+Query: sicheres Passwort
+Description: Wie erstellt man ein sicheres und schwer zu erratendes Passwort?
+Narrative: Ein relevantes Dokument sollte Best Practices zur Passwortsicherheit enthalten, wie z. B. Länge, Komplexität und Passwort-Manager. Zusätzlich sollte es Tipps für den Umgang mit verschiedenen Online-Accounts und zur Verwendung der Zwei-Faktor-Authentifizierung geben.
+
+
+Kategorie: Explizit zeitlich
+Query: EM 2024 wirtschaftlicher Einfluss
+Description: Welche wirtschaftlichen Auswirkungen hat die Europameisterschaft 2024 auf die Gastgeberländer, insbesondere Deutschland?
+Narrative: Ein geeignetes Dokument beschreibt die möglichen Einnahmen durch Tourismus, Investitionen und erhöhte Ausgaben der lokalen Wirtschaft. Es sollte auch auf Infrastrukturverbesserungen eingehen, die durch das Event angestoßen werden, sowie auf potenzielle Herausforderungen für den Austragungsort.
+
+
+Kategorie: Ereignis
+Query: Vulkanausbruch Island Auswirkungen
+Description: Wie reagieren Staaten und internationale Organisationen auf den Ausbruch eines Vulkans in Island?
+Narrative: Eine relevante Quelle würde Maßnahmen zur Bewältigung des Vulkanausbruchs beschreiben, darunter Evakuierungen, Gesundheitsrisiken und langfristige Erholungsstrategien. Es sollten auch internationale Hilfsmaßnahmen und die wirtschaftlichen Folgen für Island und Europa behandelt werden.
+
+
+Kategorie: Mehrdeutig
+Query: Turkey Bedeutung
+Description: Welche kulturellen und sprachlichen Bedeutungen kann das Wort „Turkey“ haben, und wie wirken sie sich auf die Kommunikation aus?
+Narrative: Ein nützliches Dokument erläutert, wie „Turkey“ je nach Kontext das Land oder das Tier meint, und beschreibt, wie dies zu Missverständnissen in globalen Medien führen kann. Es könnte auch Beispiele für solche Verwechslungen enthalten und Hinweise geben, wie der Kontext zur richtigen Interpretation beiträgt.
+
+
+Kategorie: Aktualität
+Query: Aktuelle Benzinpreise
+Description: Was sind die aktuellen Benzinpreise, und welche Faktoren beeinflussen diese Schwankungen?
+Narrative: Ein relevantes Dokument würde aktuelle Marktberichte und Preisvergleiche bieten sowie die Gründe für die Preisänderungen erläutern. Dazu gehören geopolitische Ereignisse, Angebot und Nachfrage sowie steuerliche Anpassungen in den verschiedenen Regionen.
