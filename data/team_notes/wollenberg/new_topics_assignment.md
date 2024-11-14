@@ -37,7 +37,7 @@ psyops
 * Description:
 I want to see informations about the tools used to disrupt social unity in countries.
 * Narative:
-A relevant highlights in a neutral and fact based tone what kind of tools are used and how they affect the social life of the affected countries.
+A relevant document highlights in a neutral and fact based tone what kind of tools are used and how they affect the social life of the affected countries.
 In addition it also highlights the psychological impact on the civilians.
 ##### Aktualität
 ###### fine too fast
