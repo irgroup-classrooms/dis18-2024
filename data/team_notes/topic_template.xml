@@ -1,0 +1,18 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Max Mustermann</author>
+		<type>event</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+</topics>
