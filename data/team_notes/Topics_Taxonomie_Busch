@@ -1,5 +1,12 @@
 Taxonomie
 
+Zwei neue Untergruppen unter Explizit zeitlich:
+1. Historische Ereignisse; Anfragen, die sich auf historische Ereignisse beziehen und spezifische Zeiträume erfordern.
+2. Zukünftige Ereignisse; Anfragen zu zukünftigen Ereignissen oder geplanten Ereignissen, bei denen Daten oder Prognosen für den kommenden Zeitraum zu erwarten sind.
+
+
+Topics
+
 --Nicht zeitlich--
 Query: Funktionsweise Motor
 Discription: Die Person möchte wissen, wie ein Motor funktioniert und seine Hauptkomponenten kennenlernen.
