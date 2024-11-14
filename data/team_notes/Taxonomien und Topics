@@ -1,0 +1,74 @@
+# Taxonomien und Topics Aufgaben
+## Taxonomien
+# 1. Nicht Zeitlich (Non-temporal)
+•	Definition: Daten ohne Bezug zu einem bestimmten Zeitpunkt, die unabhängig von der Zeit gültig bleiben.
+•	Beispiele:
+o	Definitionen (z.B. „Ein Kreis ist eine geometrische Figur, bei der alle Punkte den gleichen Abstand zum Mittelpunkt haben“).
+o	Strukturierte Daten, wie Baumarten und ihre Eigenschaften.
+# 2. Explizit Zeitlich (Explicitly Temporal)
+•	Definition: Daten, die auf einen spezifischen Zeitpunkt oder Zeitraum bezogen sind.
+•	Beispiele:
+o	Historische Ereignisse (z.B. der Fall der Berliner Mauer).
+o	Börsenkurse zu einem bestimmten Zeitpunkt.
+# 3. Ereignis (Event-based)
+•	Definition: Daten, die auf einem spezifischen Ereignis beruhen und in einem klar definierten Zeitraum relevant sind.
+•	Beispiele:
+o	Konzertdaten (Datum, Ort eines Festivals).
+o	Informationen über ein Fußballspiel (Datum, Teams, Ergebnis).
+# 4. Mehrdeutig (Ambiguous)
+•	Definition: Daten mit zeitlicher Unsicherheit, oft ohne klaren Zeitpunkt.
+•	Beispiele:
+o	Wörter oder Ausdrücke, die je nach Kontext unterschiedliche Bedeutungen haben (z.B. „schnell“ in Bezug auf Zeit oder Geschwindigkeit).
+o	Aussagen über zukünftige Ereignisse ohne festen Termin, wie „in naher Zukunft“.
+# 5. Aktualität (Relevance)
+•	Definition: Informationen, die eine zeitliche Bedeutung oder Wichtigkeit für die aktuelle Situation haben, aber nicht an einen fixen Bezugspunkt gebunden sind.
+•	Beispiele:
+o	Nachrichtenmeldungen, die derzeit wichtig sind (z.B. die jüngste Inflationsrate).
+o	Wissenschaftliche Entdeckungen, die aktuell diskutiert werden, aber nicht an ein bestimmtes Datum gebunden sind.
+
+
+### Topics
+## 1. Nicht Zeitlich (Non-temporal)
+# Title:
+Amazonas-Regenwald
+# Description:
+Was sind die geologischen und biologischen Merkmale des Amazonas-Regenwaldes?
+# Narrative:
+Ein relevantes Dokument sollte sich auf die einzigartigen geologischen und biologischen Eigenschaften des Amazonas-Regenwaldes konzentrieren, wie die Flora und Fauna, sowie auf ökologische Aspekte. Informationen, die sich auf andere Regenwälder oder allgemeine Umweltschutzthemen beziehen, sind nicht von Interesse.
+
+
+________________________________________
+## 2. Explizit Zeitlich (Explicitly Temporal)
+# Title:
+Olympische Sommerspiele 2024
+# Description:
+Welche Athleten haben bei den Olympischen Sommerspielen 2024 in Paris Goldmedaillen gewonnen?
+# Narrative:
+Dokumente, die spezifische Details zu den Goldmedaillengewinnern der Olympischen Sommerspiele 2024 in Paris enthalten, sind von Bedeutung. Allein historische Olympiadendaten oder Berichte von früheren Spielen sind nicht relevant.
+
+________________________________________
+## 3. Ereignis (Event-based)
+# Title:
+Tesla Model 3 Einführung
+# Description:
+Wie wurde das Tesla Model 3 2017 eingeführt und welche Auswirkungen hatte es auf den Markt?
+# Narrative:
+Ein relevantes Dokument sollte sich auf die Markteinführung des Tesla Model 3 2017 fokussieren, inklusive der technischen Details und der Marktreaktionen. Berichte über die Entwicklung von Elektroautos im Allgemeinen sind für dieses Thema nicht zutreffend.
+
+________________________________________
+## 4. Mehrdeutig (Ambiguous)
+# Title:
+Fast Food in den USA
+# Description:
+Welche verschiedenen Arten von Fast Food gibt es in den USA?
+# Narrative:
+Für relevante Dokumente geht es darum, die Vielfalt und die spezifischen Fast-Food-Ketten in den USA zu beschreiben. Informationen über Fast Food aus anderen Ländern oder allgemeine Trends in der Ernährung sind nicht von Interesse.
+
+________________________________________
+## 5. Aktualität (Relevance)
+# Title:
+Klimawandel-Bericht 2024
+# Description:
+Welche neuen Erkenntnisse wurden im Klimawandel-Bericht 2024 veröffentlicht?
+# Narrative:
+Dokumente, die die neuesten Erkenntnisse und Empfehlungen aus dem Klimawandel-Bericht 2024 widerspiegeln, sind relevant. Berichte aus früheren Jahren oder historische Daten ohne direkten Bezug zur aktuellen Forschung sollten ausgeschlossen werden.
