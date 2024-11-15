@@ -1,0 +1,35 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- Taxonomy | https://stackoverflow.com/questions/11890413/xsd-custom-type-with-attribute-and-restriction-->
+    <xs:simpleType name="topicTypeEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="time-independent"/>
+            <xs:enumeration value="explicit-time"/>
+            <xs:enumeration value="implicit-time"/>
+            <xs:enumeration value="ambiguous"/>
+            <xs:enumeration value="timeliness"/>
+            <xs:enumeration value="event"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+   <!-- Main schema structure | DIS08 Assignment-->
+    <xs:element name = "topics">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name = "topic" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name = "num"                    type = "xs:int"              minOccurs="1"/>   
+                            <xs:element name = "author"                 type = "xs:string"           minOccurs="1"/>   
+                            <xs:element name = "type"                   type = "topicTypeEnum"       minOccurs="1"/>   
+                            <xs:element name = "title"                  type = "xs:string"           minOccurs="1"/>   
+                            <xs:element name = "description"            type = "xs:string"           minOccurs="1"/>   
+                            <xs:element name = "narrative"              type = "xs:string"           minOccurs="1"/>   
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

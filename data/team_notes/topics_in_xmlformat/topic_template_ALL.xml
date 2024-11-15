@@ -1,0 +1,83 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Max Wollenberg</author>
+		<type>time-independent</type>
+		<title>system hardening</title>
+		<description>
+			How do i secure my system against external cyberattacks?
+		</description>
+		<narrative>
+			A relevant document will provide areas of my systems security which i can check. 
+			Additionally it should provide further assistance on how to improve my cyber resiliance if the security level falls short.
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Max Wollenberg</author>
+		<type>explicit-time</type>
+		<title>specs Fireblade 2020</title>
+		<description>
+			I want to see exactly this model year for specs of the machine.
+		</description>
+		<narrative>
+			A relevant document would include information about the specific informations of this machine.
+			This explicitly includes top speed, acceleration 0-100kmh/0-60mph, mileage (fuel l/100km), (others are optional).
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Max Wollenberg</author>
+		<type>implicit-time</type>
+		<title>banana republic</title>
+		<description>
+			I want to see information about Chiquita's historical exploiting developing countries.
+		</description>
+		<narrative>
+			A relevant document consists of Chiquitas past how they usurped developing countries with the help of the us government and the cia.
+			It should additionaly highlight the inhibition of the self development of the affected countries.
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Max Wollenberg</author>
+		<type>ambiguous</type>
+		<title>psyops</title>
+		<description>
+			I want to see informations about the tools used to disrupt social unity in countries.
+		</description>
+		<narrative>
+			A relevant document highlights in a neutral and fact based tone what kind of tools are used and how they affect the social life of the affected countries.
+			In addition it also highlights the psychological impact on the civilians.
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Max Wollenberg</author>
+		<type>timeliness</type>
+		<title>fine too fast</title>
+		<description>
+			I've been driven too fast! I want to know what i have to pay or how the country is going to punish me.
+		</description>
+		<narrative>
+			A relevant document showcases the different fines for different excessive speeding.
+			It also highlights the relevant punishments additional to monetary fines (f.e. license suspension, others...).
+		</narrative>
+	</topic>
+	<topic>
+		<num>1</num>
+		<author>Max Mustermann</author>
+		<type>event</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+</topics>
