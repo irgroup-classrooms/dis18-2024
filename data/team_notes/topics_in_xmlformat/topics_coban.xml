@@ -1,0 +1,81 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Muhammed Coban</author>
+		<type>time-independent</type>
+		<title>Dark Souls 1 Lore</title>
+		<description>
+			The background story and worldbuilding of Dark Souls 1.
+		</description>
+		<narrative>
+			A relevant document provides an explanation of the lore in Dark Souls 1, a video game developed by FromSoftware. 
+      Dark Souls 1 is known for its unique approach to storytelling, 
+			where the narrative is not presented directly but instead conveyed through cryptic item descriptions, NPC dialogue, and environmental details. 
+      The game explores themes such as the Age of Fire, the fading of light, and the cyclical nature of struggle.
+      It is important to note that Dark Souls 1 is the first game in the Dark Souls series, and while it is connected to its sequels, 
+			documents that discuss lore from other games or other FromSoftware titles, like Bloodborne or Elden Ring, are not relevant. 
+      This topic focuses exclusively on the story and worldbuilding as presented in the original release of Dark Souls 1.
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Muhammed Coban</author>
+		<type>explicit-time</type>
+		<title>"The College Dropout" Release</title>
+		<description>
+			The release date of Kanye West's debut album.
+		</description>
+		<narrative>
+			A relevant document provides the exact date when "The College Dropout" was released. 
+      This album marked Kanye West's entry into the music industry as a solo artist and is considered a significant milestone in hip-hop. 
+      Documents that speculate about the release without giving the precise date or discuss unrelated albums are not relevant.
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Muhammed Coban</author>
+		<type>event</type>
+		<title>Yeezus Tour</title>
+		<description>
+			Kanye West's concert tour to promote his Yeezus album, known for its artistic and provocative performances.
+		</description>
+		<narrative>
+			The Yeezus Tour was a landmark event in live music, showcasing Kanye West's bold artistic vision. 
+      Relevant documents would include articles, reviews, and analysis of the tour's performances, themes, and impact on the music industry. 
+      These might cover the visual elements, the setlist, and the cultural significance of the show.
+      Irrelevant documents would include product listings or merchandise related to the tour, as these do not provide insight into the event itself. 
+      The focus should be on discussions around the tour's influence, not on items for sale.
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Muhammed Coban</author>
+		<type>ambiguous</type>
+		<title>Dragon Ball</title>
+		<description>
+			The franchise centered around the manga Dragon Ball.
+		</description>
+		<narrative>
+			A relevant document covers any aspect of the Dragon Ball franchise, including its manga, anime adaptations, video games, and merchandise. 
+      Dragon Ball is one of the most influential manga series, created by Akira Toriyama, and has spawned numerous adaptations and continuations. 
+      However, the ambiguity arises because a new series is currently airing, sparking renewed interest. 
+      Documents should focus on Dragon Ball and its franchise rather than unrelated topics, 
+			but all parts of the franchise, including older works and the new series, are considered relevant.
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Muhammed Coban</author>
+		<type>recency</type>
+		<title>PS5 Pro</title>
+		<description>
+			The new console from Sony.
+		</description>
+		<narrative>
+			A relevant document provides detailed and accurate information about the PS5 Pro, focusing on its features, specifications, and release details. 
+      The PS5 Pro is an upgraded version of the PlayStation 5, designed to offer improved performance and enhanced graphics capabilities. 
+      Documents discussing the standard PS5 or other gaming consoles are not relevant. 
+      The focus is on providing information that highlights what is new and unique about the PS5 Pro or where you can buy one.
+		</narrative>
+	</topic>
+</topics>
