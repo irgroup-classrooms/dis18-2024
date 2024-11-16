@@ -1,0 +1,42 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Max Mustermann</author>
+		<type>time-independent</type>
+		<title> ... </title>
+		<description> ... </description>
+		<narrative> ... </narrative>
+	</topic>
+</topics>
