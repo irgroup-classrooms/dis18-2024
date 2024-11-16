@@ -6,7 +6,6 @@
         <xs:restriction base="xs:string">
             <xs:enumeration value="time-independent"/>
             <xs:enumeration value="explicit-time"/>
-            <xs:enumeration value="implicit-time"/>
             <xs:enumeration value="ambiguous"/>
             <xs:enumeration value="timeliness"/>
             <xs:enumeration value="event"/>
