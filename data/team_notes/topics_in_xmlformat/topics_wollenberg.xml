@@ -5,11 +5,11 @@
 		<type>time-independent</type>
 		<title>system hardening</title>
 		<description>
-			How do i secure my system against external cyberattacks?
+			How do i secure a system against external cyberattacks?
 		</description>
 		<narrative>
-			A relevant document will provide areas of my systems security which i can check. 
-			Additionally it should provide further assistance on how to improve my cyber resiliance if the security level falls short.
+			A relevant document will provide areas of a systems security which can be checked. 
+			Additionally it should provide further assistance on how to improve on cyber resiliance if the security level falls short.
 		</narrative>
 	</topic>
 	<topic>
@@ -18,20 +18,22 @@
 		<type>explicit-time</type>
 		<title>specs Fireblade 2020</title>
 		<description>
-			I want to see exactly this year of the model of the machine and its specs.
+			What are the specifics of the motorcycle of exactly this year.
 		</description>
 		<narrative>
 			A relevant document would include information about the specific information of this machine.
 			This explicitly includes top speed, acceleration 0-100kmh/0-60mph, mileage (fuel l/100km), (others are optional).
+			Not included are only specifics how the motorcycle feels when driving it, 
+			but they can show up next to the specifics as they mostly come in pairs when appearing
 		</narrative>
 	</topic>
 	<topic>
 		<num>3</num>
 		<author>Max Wollenberg</author>
-		<type>implicit-time</type>
+		<type>event</type>
 		<title>banana republic</title>
 		<description>
-			I want to see information about Chiquita's history exploiting developing countries.
+			How did Chiquita's exploit developing countries in their company history?
 		</description>
 		<narrative>
 			A relevant document consists of Chiquitas past how they usurped developing countries with the help of the us government and the cia.
@@ -44,11 +46,13 @@
 		<type>ambiguous</type>
 		<title>psyops</title>
 		<description>
-			I want to see informations about tools used to disrupt social unity in countries.
+			How are current societies disrupted by techniques and tools from foreign countries or internal factions.
 		</description>
 		<narrative>
-			A relevant document highlights in a neutral and fact based tone what kind of tools are used and how they affect the social life of the affected countries.
-			In addition it also highlights the psychological impact on the civilians.
+			A relevant document is a scientific paper which highlights in a neutral and fact based tone what kind of tools are used and how they influence a society of an affected country.
+			It should highlight what psychological tricks are used against the affected society and how the society changes because of the disruption.
+			It can include examples how countries are using this technique.
+			It should not include assumptions and non accredited sources. 
 		</narrative>
 	</topic>
 	<topic>
@@ -57,11 +61,13 @@
 		<type>timeliness</type>
 		<title>fine too fast</title>
 		<description>
-			I've drove too fast! I want to know what i have to pay or how the country is going to punish me.
+			What fines and punishment exist right now for driving too fast inside the country.
 		</description>
 		<narrative>
-			A relevant document showcases the different fines for different excessive speeding.
+			A relevant document showcases recent fines for different excessive speeding inside the country.
 			It also highlights the relevant punishments additional to monetary fines (f.e. license suspension, others...).
+			The focus has to lie on the current fines and punishments.
+			The focus should not lie on another topic. (fe. short mentioning of fines/punishments inside an newspaper, an article)
 		</narrative>
 	</topic>
 </topics>
