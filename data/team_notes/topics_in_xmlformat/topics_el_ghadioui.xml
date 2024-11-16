@@ -1,0 +1,62 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Maryam El Ghadioui</author>
+		<type>time-independent</type>
+		<title>cookies recipe </title>
+		<description>
+			I need an easy and fast cookies recipe
+		</description>
+		<narrative>
+			A relevant document should provide a simple recipe for cookies that uses no more than 10 ingredients and takes no longer than 30 to 35 minutes to prepare, including both mixing and baking time. The recipe should focus on classic chocolate chip cookies. Recipes that take longer, require more ingredients, or significantly differ from standard chocolate chip cookies (e.g., flavored, vegan, or specialized variations) are not relevant. Additionally, the recipe should include clear instructions that are easy to follow for beginners. Documents that focus on gourmet techniques or advanced baking skills are also not relevant.
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Maryam El Ghadioui</author>
+		<type>explicit-time</type>
+		<title>Kızıl Goncalar season 2 release date</title>
+		<description>
+			What is the release date for the second season of the series "Kızıl Goncalar"?
+		</description>
+		<narrative>
+			Relevant documents should provide specific information about the release date of the second season of the series Kızıl Goncalar. This includes confirmed dates and details about availability on streaming platforms. Documents that do not specify the release timeline or offer only unrelated content about the series or its creators are not relevant. Information about any delays or official announcements from the producers would also be considered relevant. Details about earlier seasons or other unrelated series should also be excluded.
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Maryam El Ghadioui</author>
+		<type>event</type>
+		<title>Apollo 13</title>
+		<description>
+			What happened during the Apollo 13 mission, and how was the crew rescued?
+		</description>
+		<narrative>
+			Relevant documents should focus on the malfunction that occurred during the Apollo 13 mission and explain how it prevented the planned lunar landing. They should detail the specific actions taken by the crew to address the emergency, such as how they adapted to the lack of resources, managed life-support systems, and executed critical maneuvers to ensure their safe return to Earth. Information about ground control or NASA engineers is not relevant unless it directly overlaps with the crew's actions. Broader context about the Apollo program, unrelated missions, or technical details unrelated to the crew's efforts are also not relevant.
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Maryam El Ghadioui</author>
+		<type>ambiguous</type>
+		<title>uzumaki spirale of horror</title>
+		<description>
+			Where can I buy the complete book series Uzumaki: Spiral into Horror?
+		</description>
+		<narrative>
+			Relevant documents should provide information about online shops where all three volumes of Junji Ito's manga Uzumaki: Spiral into Horror can be purchased. Details about the upcoming anime adaptation, general information about the author, or summaries of the manga's content are not relevant. Documents discussing only individual volumes instead of the complete series, or providing information on non-purchasable formats such as fan translations or summaries, are also not relevant. The ambiguity arises from the recent release of an anime adaptation of Uzumaki, which might lead to results focusing on streaming platforms or the adaptation itself instead of the manga series. 
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Maryam El Ghadioui</author>
+		<type>timeliness</type>
+		<title>new horror movies</title>
+		<description>
+			What are the latest upcoming horror movies?
+		</description>
+		<narrative>
+			 Relevant documents should focus on new horror movies set to be released, providing details such as their titles, release dates, plot summaries, and key cast or director information. These documents should highlight the type of horror in the film (e.g., psychological, supernatural,..). Documents that discuss older horror movies, general horror trends, or movies that blend genres with no specific focus on horror are not relevant. Any content unrelated to new horror movies or those that focus on behind-the-scenes information, reviews, or movies that do not belong to the horror genre should also be excluded.
+		</narrative>
+	</topic>
+</topics>
