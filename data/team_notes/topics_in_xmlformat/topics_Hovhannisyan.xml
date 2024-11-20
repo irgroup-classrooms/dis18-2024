@@ -1,0 +1,62 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Davit Hovhannisyan</author>
+        <type>time-independent</type>
+        <title>Amazon Rainforest</title>
+        <description>
+            What are the geological and biological characteristics of the Amazon Rainforest?
+        </description>
+        <narrative>
+            A relevant document should focus on the unique geological and biological properties of the Amazon Rainforest, such as its flora and fauna, as well as ecological aspects. Information related to other rainforests or general environmental protection topics is not of interest.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Davit Hovhannisyan</author>
+        <type>explicit-time</type>
+        <title>2024 Summer Olympics</title>
+        <description>
+            Which athletes won gold medals at the 2024 Summer Olympics in Paris?
+        </description>
+        <narrative>
+            Documents containing specific details about the gold medal winners at the 2024 Summer Olympics in Paris are relevant. Historical Olympic data or reports from previous games are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Davit Hovhannisyan</author>
+        <type>event</type>
+        <title>Tesla Model 3 Launch</title>
+        <description>
+            How was the Tesla Model 3 launched in 2017, and what impact did it have on the market?
+        </description>
+        <narrative>
+            A relevant document should focus on the launch of the Tesla Model 3 in 2017, including its technical details and market reactions. Reports about the development of electric vehicles in general are not relevant to this topic.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Davit Hovhannisyan</author>
+        <type>ambiguous</type>
+        <title>Fast Food in the USA</title>
+        <description>
+            What are the different types of fast food available in the USA?
+        </description>
+        <narrative>
+            Relevant documents should describe the variety and specific fast-food chains in the USA. Information about fast food from other countries or general trends in nutrition is not of interest.
+        </narrative>
+    </topic>
+    <topic>
+        <num>5</num>
+        <author>Davit Hovhannisyan</author>
+        <type>timeliness</type>
+        <title>2024 Climate Change Report</title>
+        <description>
+            What new findings were published in the 2024 Climate Change Report?
+        </description>
+        <narrative>
+            Documents that reflect the latest findings and recommendations from the 2024 Climate Change Report are relevant. Reports from previous years or historical data without a direct connection to current research should be excluded.
+        </narrative>
+    </topic>
+</topics>
