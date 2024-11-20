@@ -1,0 +1,64 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Mark Henri Mörsheim</author>
+		<type>time-independent</type>
+		<title>
+			python dictionary key error fix
+		</title>
+		<description>
+			How can the KeyError Exception in the context of dictionaries be fixed in Python?
+		</description>
+		<narrative>
+			Relevant documents refer specifically to the occurrence of the KeyError in dictionaries in Python, not for other data types. They explain the background to the exception and clearly show why this exception occurs and how the user can resolve and avoid it from now on. 
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Mark Henri Mörsheim</author>
+		<type>explicit-time</type>
+		<title>Bundestagswahl 2013 FDP result</title>
+		<description>
+			What was the FDP's vote count in the 2013 german federal elections, and what were the effects of this result?
+		</description>
+		<narrative>
+			Relevant Documents contain the percentage of overall votes the FDP received in the german federal elections in 2013. Additionally, relevant documents will highlight the fact that the results were not enough to reach the threshold of 5% and resulted in them not gaining any seats. 
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Mark Henri Mörsheim</author>
+		<type>event</type>
+		<title>presidential inauguration USA</title>
+		<description>
+			What is the presidential inauguration in the US?
+		</description>
+		<narrative>
+			Relevant documents will go over the history of past inauguration days in the US. Moreover, it emphasizes when the presidential inauguration takes place and that on that date the new president elect takes office.  
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Mark Henri Mörsheim</author>
+		<type>ambiguous</type>
+		<title>python fun facts</title>
+		<description>
+			What are some fun facts about the python snake?
+		</description>
+		<narrative>
+			Relevant documents will list a couple small fun facts about the python animal. These fun facts should be short, surprising, intriguing, simple and potentially entertaining. Documents entirely focussed  on the programming language "Python" are not relevant. 
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Mark Henri Mörsheim</author>
+		<type>timeliness</type>
+		<title>premier league standings</title>
+		<description>
+			What are the current standings in the premier league?
+		</description>
+		<narrative>
+			Relevant documents will contain up-to-date information on the current standings of teams in the Premier League, including points, goals scored, goal difference, and recent match results. These documents should reflect the latest results from matches played during weekends and midweeks, with frequent updates as the season progresses. Additional insights, e.g. analysis of team performance, key player statistics, and upcoming fixtures, should also be included. The standings should be presented in a clear, structured format, often with visual representations like tables or infographics, to make the information easy to digest.
+		</narrative>
+	</topic>
+</topics>
