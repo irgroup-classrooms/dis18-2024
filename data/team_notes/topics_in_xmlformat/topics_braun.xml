@@ -1,0 +1,42 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Florian Braun</author>
+		<type>time-independent</type>
+		<title>Secure Password</title>
+		<description>How to create a secure and hard-to-guess password?</description>
+		<narrative>A relevant document should include best practices for password security, such as length, complexity, and the use of password managers. Additionally, it should provide tips for managing different online accounts and using two-factor authentication.</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Florian Braun</author>
+		<type>explicitly time-dependent</type>
+		<title>EURO 2024 Economic Impact</title>
+		<description>What are the economic impacts of the UEFA European Championship 2024 on the host countries, particularly Germany?</description>
+		<narrative>A suitable document should describe potential revenues from tourism, investments, and increased local economic spending. It should also discuss infrastructure improvements initiated by the event and potential challenges for the host cities.</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Florian Braun</author>
+		<type>event-based</type>
+		<title>Volcanic Eruption in Iceland: Effects</title>
+		<description>How do states and international organizations respond to a volcanic eruption in Iceland?</description>
+		<narrative>A relevant source would describe measures taken to manage the volcanic eruption, including evacuations, health risks, and long-term recovery strategies. It should also address international aid efforts and the economic consequences for Iceland and Europe.</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Florian Braun</author>
+		<type>ambiguous (time-contextual)</type>
+		<title>Turkey: Meanings</title>
+		<description>What cultural and linguistic meanings can the word "Turkey" have, and how do they affect communication?</description>
+		<narrative>A useful document would explain how "Turkey" can refer to either the country or the bird, depending on the context, and describe how this can lead to misunderstandings in global media. It might also include examples of such confusions and suggest how context helps clarify the intended meaning.</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Florian Braun</author>
+		<type>current-affairs</type>
+		<title>Current Gasoline Prices</title>
+		<description>What are the current gasoline prices, and what factors influence these fluctuations?</description>
+		<narrative>A relevant document would provide up-to-date market reports and price comparisons, as well as explain the reasons behind price changes. These include geopolitical events, supply and demand, and tax adjustments in different regions.</narrative>
+	</topic>
+</topics>
