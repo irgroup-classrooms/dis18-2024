@@ -1,0 +1,69 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Timo Busch</author>
+		<type>time-independent</type>
+		<title>How does an engine work?</title>
+		<description>
+			You're curious about how engines function and want to understand their key components and processes.
+		</description>
+		<narrative>
+			An informative document should describe the core principles behind how an engine works, with a focus on internal combustion engines. 
+			It should detail important parts like cylinders, pistons, crankshafts, and the ignition system. Additionally, the document should explain how fuel is converted into motion, and highlight the differences between engine types, such as gasoline versus diesel engines.
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Timo Busch</author>
+		<type>explicit-time</type>
+		<title>Bundestag Election 2021</title>
+		<description>
+			What were the results of the 2021 Bundestag election, and how were the seats distributed in the German parliament?
+		</description>
+		<narrative>
+			Relevant sources should provide detailed insights into the 2021 Bundestag election in Germany, focusing on which parties gained the most votes, the exact seat distribution in the parliament, and the process of selecting the Federal Chancellor. 
+			Any information about coalition negotiations or shifts in party power will also be important. Results from other years or general political developments that are not tied to the 2021 election should be excluded.
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Timo Busch</author>
+		<type>event</type>
+		<title>First COVID-19 case in Germany</title>
+		<description>
+			What happened when Germany reported its first COVID-19 case, and what were the immediate reactions from the authorities?
+		</description>
+		<narrative>
+			A relevant document should concentrate on the timeline and details surrounding Germany's first confirmed case of COVID-19. It should explore the actions taken by the government in response, such as quarantines, contact tracing efforts, and public health measures. 
+			Information that only pertains to the global spread of the virus is less relevant unless it directly impacted Germany's initial response.
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Timo Busch</author>
+		<type>ambiguous</type>
+		<title>The Olympics</title>
+		<description>
+			When is the next Olympic Games, and what are the main events and expectations for this edition?
+		</description>
+		<narrative>
+			A relevant document should provide details on the upcoming Olympic Games, including the year of the event, the participating countries, and the major sports and athletes to watch. 
+			It should highlight any changes in the competition format, as well as the significance of particular events. 
+			General information about previous Olympics or events that are not tied to the upcoming games should be excluded.
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Timo Busch</author>
+		<type>timeliness</type>
+		<title>New iPhone</title>
+		<description>
+			What new features and improvements does the iPhone released in 2024 offer compared to its predecessors?
+		</description>
+		<narrative>
+			Relevant documents should explore the advancements made in the iPhone released in 2024, including hardware upgrades such as display quality, processing power, and camera enhancements. 
+			Any new software features that improve user experience, along with notable design changes, should also be highlighted. 
+			Details about older iPhone models are not necessary unless they are used for comparison with the 2024 version.
+		</narrative>
+	</topic>
+</topics>
