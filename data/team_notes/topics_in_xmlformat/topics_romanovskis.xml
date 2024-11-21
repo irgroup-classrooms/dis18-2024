@@ -1,0 +1,62 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Vadims Romanovskis</author>
+        <type>time-independent</type>
+        <title>Grand Canyon</title>
+        <description>How was the Grand Canyon formed, and what are its unique geological features?</description>
+        <narrative>
+            A relevant document provides information about the formation history, geological characteristics of the Grand Canyon.
+            It should include specific details about its unique rock layers, erosion processes, and significance in natural history.
+            General information about other canyons or unrelated tourism data is not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Vadims Romanovskis</author>
+        <type>explicit-time</type>
+        <title>Gamescom 2024</title>
+        <description>Which new games were presented at Gamescom 2024, and which companies participated?</description>
+        <narrative>
+            A relevant document contains detailed information about the new games showcased and the companies that participated at Gamescom 2024.
+            Reports should specify game titles, genres, release dates, and significant announcements made during the event.
+            Older reports or general gaming news unrelated to Gamescom 2024 are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Vadims Romanovskis</author>
+        <type>event</type>
+        <title>German Reunification</title>
+        <description>What were the political and economic consequences of German reunification in 1990?</description>
+        <narrative>
+            A relevant document describes the political, economic, and social transformations caused by the reunification of the Federal Republic of Germany and the German Democratic Republic.
+            It should cover aspects like integration challenges, economic restructuring, and policy shifts.
+            Information about unrelated political events in Germany or general historical data is not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Vadims Romanovskis</author>
+        <type>ambiguous</type>
+        <title>Jaguar</title>
+        <description>What is relevant information about Jaguar?</description>
+        <narrative>
+            A relevant document should discuss recent vehicle releases, technical specifications, company news, or innovations in automobile design.
+            For example, an article about the latest Jaguar electric car or the company's global market performance would be appropriate.
+            A document that tells the history of a brand, a commercial website that sells a car of that brand or information about an animal is not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>5</num>
+        <author>Vadims Romanovskis</author>
+        <type>timeliness</type>
+        <title>Euro/Dollar Exchange Rate</title>
+        <description>What is the current exchange rate between the Euro and the US Dollar?</description>
+        <narrative>
+            A relevant document provides up-to-date information on the exchange rate between the Euro and the US Dollar.
+            It may include current market trends, financial analysis, or factors influencing the rate.
+            Historical data or speculative forecasts without current context are not relevant.
+        </narrative>
+    </topic>
+</topics>
