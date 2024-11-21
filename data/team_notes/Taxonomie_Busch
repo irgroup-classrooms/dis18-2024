@@ -1,0 +1,18 @@
+--Nicht Zeitlich--
+Definition: Daten, die unabhängig von einem bestimmten Zeitpunkt immer gültig sind und keinen zeitlichen Bezug haben.
+Beispiel: Baumarten Eigenschaften, Hauptstädte Liste
+
+--Explizit Zeitlich--
+Definition: Daten, die explizit an einen bestimmten Zeitpunkt oder Zeitraum gebunden sind und sich mit der Zeit ändern können.
+Beispiel-Query: Börsenkurs 01.01.2024, Fußball WM 2022
+
+--Ereignis--
+Definition: Daten, die sich auf ein konkretes Ereignis beziehen, das in einem klar definierten Zeitraum stattfindet.
+
+--Mehrdeutig--
+Definition: Daten mit unscharfen oder unklaren Zeitangaben, bei denen der genaue Zeitpunkt oder Zeitraum nicht eindeutig festgelegt ist.
+Beispiel: Weltmeisterschaft, Frühjahr
+
+--Aktualität--
+Definition: Daten, die eine zeitliche Bedeutung oder Wichtigkeit für die aktuelle Situation haben, aber nicht an einen fixen Zeitpunkt gebunden sind.
+Beispiel: Aktuelle Nachrichten, Inflation
