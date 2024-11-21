@@ -1,0 +1,70 @@
+<topics>
+	<topic>
+		<num>1</num>
+		<author>Nadine Maron</author>
+		<type>time-independent</type>
+		<title>easy one pot pasta</title>
+		<description>
+			An easy recipe for a pasta dish that only requires one pot is needed.
+		</description>
+		<narrative>
+			A relevant document will provide a pasta recipe that is easy to follow and does not require many ingredients.
+			It should require no more than one pot to prepare.
+		</narrative>
+	</topic>
+	<topic>
+		<num>2</num>
+		<author>Nadine Maron</author>
+		<type>explicit-time</type>
+		<title>GNTM winner 2024</title>
+		<description>
+			Who won the GNTM final in 2024?
+		</description>
+		<narrative>
+			A relevant document includes information about the person that won the GNTM final in 2024.
+			The information should include name, age and a picture of the person.
+		</narrative>
+	</topic>
+	<topic>
+		<num>3</num>
+		<author>Nadine Maron</author>
+		<type>event</type>
+		<title>hurricane Milton</title>
+		<description>
+			What effects did hurricane Milton have?
+		</description>
+		<narrative>
+			A relevant document includes information about the hurricane itself, containing the date and location of its occurence.
+			It should also give details about the extend of the hurricane and what area was affected the most.
+			It should show what actually happened and not the predictions about the extend.
+		</narrative>
+	</topic>
+	<topic>
+		<num>4</num>
+		<author>Nadine Maron</author>
+		<type>snow cologne</type>
+		<title></title>
+		<description>
+			When is snow supposed to fall in Cologne.
+		</description>
+		<narrative>
+			A relevant document will give a time when snow is to be expected in Cologne.
+			If no specific date can be named a rough period is also accepted.
+			The last time there was snow in Cologne is not relevant, only future events are relevant.
+		</narrative>
+	</topic>
+	<topic>
+		<num>5</num>
+		<author>Nadine Maron</author>
+		<type>timeliness</type>
+		<title>abortion laws USA</title>
+		<description>
+			What are the current developments when it come to abortion laws n the USA?
+		</description>
+		<narrative>
+			A relevant document explains the current situation in the USA, especially with the election of Donald Trump.
+			It explains what plans concerning abortion laws there are and how theyy are aimed to be achieved.
+			Information about the current abortion laws are also relevant.
+		</narrative>
+	</topic>
+</topics>
