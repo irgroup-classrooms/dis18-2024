@@ -1,0 +1,67 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Alexander Simon</author>
+        <type>time-independent</type>
+        <title>Causes of Hypertension</title>
+        <description>
+            What are the underlying causes of hypertension?
+        </description>
+        <narrative>
+            A relevant document should thoroughly analyze the underlying causes of hypertension,
+             including genetic factors, lifestyle influences, and medical conditions. Only peer-reviewed scientific studies or expert-reviewed articles should be included. General information without a clear scientific basis is not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Alexander Simon</author>
+        <type>explicit-time</type>
+        <title>Celebrity Birthdays on June 17</title>
+        <description>
+            Which well-known personalities celebrate their birthdays on June 17?
+        </description>
+        <narrative>
+            A relevant document should list famous personalities born on June 17.
+            Priority should be given to globally recognized figures, such as influential artists, politicians, or athletes. Documents mentioning less prominent individuals or providing irrelevant details are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Alexander Simon</author>
+        <type>event</type>
+        <title>Super Bowl</title>
+        <description>
+            What are the key details about the Super Bowl?
+        </description>
+        <narrative>
+            A relevant document should provide a detailed overview of the history of the Super Bowl, significant moments from past games, and comprehensive information about the upcoming event, including the teams, location, and schedule.
+            General NFL information unrelated to the Super Bowl is not relevant.
+        </narrative>
+    </topic>
+        <topic>
+        <num>5</num>
+        <author>Alexander Simon</author>
+        <type>ambiguous</type>
+        <title>Corona</title>
+        <description>
+            What are the key details about Corona beer?
+        </description>
+        <narrative>
+            A relevant document should focus on Corona beer, providing information about its production process, market performance, and global brand presence. It should not include details about the COVID-19 pandemic, 
+            other beers, or unrelated topics.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Alexander Simon</author>
+        <type>timeliness</type>
+        <title>The Horthy Government</title>
+        <description>
+            What was the structure and role of Miklós Horthy's government in Hungary during World War II?
+        </description>
+        <narrative>
+            A relevant document should examine the political structure and actions of Miklós Horthy's government in Hungary during World War II. 
+            It should address key policies, alliances, and the regime's impact on Hungarian society and its role in the war. General information about Hungary during the era without focusing on Horthy's government is not relevant.
+        </narrative>
+    </topic>
+</topics>
