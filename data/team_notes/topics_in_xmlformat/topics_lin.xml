@@ -1,0 +1,71 @@
+<topics>
+        <topic>
+                <num>1</num>
+                <author>Felix Zhi Yong Lin</author>
+                <type>time-independent</type>
+                <title>Sofa</title>
+                <description>
+                        How is a sofa constructed?
+                </description>
+                <narrative>
+                        A relevant document should describe the components and construction of a sofa. 
+                        It should include information about the materials used, such as the wooden frame, upholstery, fabric cover, and any mechanical features like pull-out beds. 
+                        Details about durability, maintenance, and ergonomic aspects could also be valuable to provide a comprehensive understanding.</narrative>
+        </topic>
+        <topic>
+                  <num>2</num>
+                  <author>Felix Zhi Yong Lin</author>
+                  <type>time-specific</type>
+                  <title>StreamAwards 2024</title>
+                  <description>
+                          When will the StreamAwards 2024 take place?
+                  </description>
+                  <narrative>
+                          A relevant document should not only provide the exact date and time of the event but also offer additional details. 
+                          These may include the venue, the platforms on which the event will be streamed (e.g., YouTube or Twitch), and highlights such as the list of nominees or award categories. 
+                          Background information about the history and significance of the event would also be helpful.</narrative>
+        </topic>
+        <topic>
+                  <num>3</num>
+                  <author>Felix Zhi Yong Lin</author>
+                  <type>event</type>
+                  <title>Football World Cup</title>
+                  <description>
+                          When and where will the next Football World Cup start?
+                  </description>
+                  <narrative>
+                          A relevant document should provide details about the start date and venue of the next Football World Cup. 
+                          Additional insights could include information about the participating teams, qualification processes, and potential favorites. 
+                          Details about the stadiums, match schedules, and cultural highlights of the host country could also help to better understand the context of the event.</narrative>
+          
+        </topic>
+        <topic>
+                  <num>4</num>
+                  <author>Felix Zhi Yong Lin</author>
+                  <type>ambiguous</type>
+                  <title>Mouse</title>
+                  <description>
+                          Relevant documents contain general information about the rodent "mouse."
+                  </description>
+                  <narrative>
+                          A relevant document could describe the biology, behavior, and lifestyle of the mouse. 
+                          This might include information about its diet, reproduction, natural habitats, and ecological role. 
+                          Insights into its adaptations for survival, its interactions with other species, and its significance in ecological systems or as a model organism in scientific research would also be valuable. 
+                          The focus is solely on the animal, not on technological devices.
+                  </topic>
+        <topic>
+                  <num>5</num>
+                  <author>Felix Zhi Yong Lin</author>
+                  <type>timeliness</type>
+                  <title>Current punctuality rates in German transport</title>
+                  <description>
+                          The query aims to find out how punctual regional trains in Germany have been over the past few weeks.
+                  </description>
+                  <narrative>
+                          A relevant document should contain up-to-date statistics and reports on the punctuality of regional trains. 
+                          Insights into regional variations, causes of delays, and efforts to improve reliability would be helpful. 
+                          Additional data on trends or historical comparisons could provide context for evaluating the current situation. 
+                          Such information is critical for transportation planners, commuters, and policymakers to assess the quality of public transport and implement improvements where necessary.
+                  </narrative>
+        </topic>
+</topics>
