@@ -10,6 +10,7 @@
 		<narrative>
 			A relevant document will provide areas of a systems security which can be checked. 
 			Additionally it should provide further assistance on how to improve on cyber resiliance if the security level falls short.
+			It should not include only a short mentioning of a possible area to improve on system hardening.
 		</narrative>
 	</topic>
 	<topic>
@@ -22,7 +23,7 @@
 		</description>
 		<narrative>
 			A relevant document would include information about the specific information of this machine.
-			This explicitly includes top speed, acceleration 0-100kmh/0-60mph, mileage (fuel l/100km), (others are optional).
+			This explicitly includes top speed, horsepower(hp)/kilowatt(kW), mileage (f.e. fuel l/100km), (others are optional).
 			Not included are only specifics how the motorcycle feels when driving it, 
 			but they can show up next to the specifics as they mostly come in pairs when appearing
 		</narrative>
@@ -31,12 +32,12 @@
 		<num>3</num>
 		<author>Max Wollenberg</author>
 		<type>event</type>
-		<title>banana republic</title>
+		<title>Banana republic history</title>
 		<description>
 			How did Chiquita's exploit developing countries in their company history?
 		</description>
 		<narrative>
-			A relevant document consists of Chiquitas past how they usurped developing countries with the help of the us government and the cia.
+			A relevant document consists of Chiquitas (or United Fruit Company/UFC/UFOC) past how they usurped developing countries with the help of the us government or the cia.
 			It should additionaly highlight the economical inhibition of the self development of the affected countries.
 		</narrative>
 	</topic>
@@ -44,12 +45,12 @@
 		<num>4</num>
 		<author>Max Wollenberg</author>
 		<type>ambiguous</type>
-		<title>psyops</title>
+		<title>psyops society</title>
 		<description>
 			How are current societies disrupted by techniques and tools from foreign countries or internal factions.
 		</description>
 		<narrative>
-			A relevant document is a scientific paper which highlights in a neutral and fact based tone what kind of tools are used and how they influence a society of an affected country.
+			A relevant document is a article which highlights in a neutral and fact based tone what kind of tools are used and how they influence a society of an affected country.
 			It should highlight what psychological tricks are used against the affected society and how the society changes because of the disruption.
 			It can include examples how countries are using this technique.
 			It should not include assumptions and non accredited sources. 

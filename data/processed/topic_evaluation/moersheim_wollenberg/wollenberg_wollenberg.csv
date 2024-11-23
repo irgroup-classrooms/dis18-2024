@@ -1,0 +1,51 @@
+topic,title,order,snippet,relevant,page,url
+1,system hardening,1,1,0,1,https://www.intel.com/content/www/us/en/business/enterprise-computers/resources/system-hardening.html
+1,system hardening,2,0,1,1,https://www.beyondtrust.com/resources/glossary/systems-hardening
+1,system hardening,3,0,0,1,https://www.fb-pro.com/was-ist-systemhaertung-welche-massnahmen-gibt-es/
+1,system hardening,4,0,0,1,https://de.wikipedia.org/wiki/H%C3%A4rten_(Computer)
+1,system hardening,5,0,1,1,https://blog.netwrix.com/2023/02/22/system-hardening/
+1,system hardening,6,0,0,1,https://en.wikipedia.org/wiki/Hardening_(computing)
+1,system hardening,7,0,1,1,https://www.ninjaone.com/blog/complete-guide-to-systems-hardening/
+1,system hardening,8,0,0,1,https://www.puppet.com/blog/system-hardening
+1,system hardening,9,0,0,1,https://www.geeksforgeeks.org/what-is-system-hardening/
+1,system hardening,10,0,1,2,https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices
+2,specs Fireblade 2020,1,1,0,1,https://www.meiermotos.ch/Neuheiten-2020/Honda-CBR1000-RR-R-Fireblade-SP-2020.htm
+2,specs Fireblade 2020,2,0,0,1,https://www.honda.de/motorcycles/range/super-sport/cbr1000rr-r-fireblade-sp/specifications-and-price.html#/
+2,specs Fireblade 2020,3,0,1,1,https://www.1000ps.de/modellnews-3006156-neue-honda-fireblade-2020
+2,specs Fireblade 2020,4,0,0,1,https://www.motorcyclespecs.co.za/model/Honda/honda_cbr1000rr-r_20.html
+2,specs Fireblade 2020,5,0,1,1,https://hondanews.eu/at/de/motorcycles/media/pressreleases/196429/2020-honda-cbr1000rr-r-fireblade
+2,specs Fireblade 2020,6,0,1,1,https://www.bennetts.co.uk/bikesocial/reviews/bikes/honda/honda-cbr1000rr-r-fireblade-sp-2020-review-price-spec
+2,specs Fireblade 2020,7,0,0,1,https://www.motochecker.de/motorrad/honda-cbr1000rr-r-fireblade-sp-2020
+2,specs Fireblade 2020,8,0,0,1,https://www.motorcyclespecs.co.za/model/Honda/honda_cbr1000rr-r-sp_20.html
+2,specs Fireblade 2020,9,0,0,1,https://www.motorradundreisen.de/motorraddatenbank/honda/cbr1000rr-r-fireblade-sp-11260.html
+2,specs Fireblade 2020,10,0,0,2,https://www.cycleworld.com/story/motorcycle-reviews/2020-honda-cbr1000rr-r-fireblade-sp-first-ride/
+3,banana republic,1,1,1,1,https://en.wikipedia.org/wiki/Banana_republic
+3,banana republic,2,0,1,1,https://www.britannica.com/topic/banana-republic
+3,banana republic,3,0,1,1,https://www.thecollector.com/banana-republics-facts/
+3,banana republic,4,0,0,1,https://sc.edu/uofsc/posts/2022/09/conversation_banana_republic.php
+3,banana republic,5,0,0,1,https://hir.harvard.edu/the-dark-side-of-bananas-imperialism-non-state-actors-and-power/
+3,banana republic,6,0,1,1,https://www.thecollector.com/what-is-a-banana-republic/
+3,banana republic,7,0,0,1,https://daily.jstor.org/fruit-geopeelitics-americas-banana-republics/
+3,banana republic,8,0,0,1,https://www.smithsonianmag.com/smart-news/where-we-got-term-banana-republic-180961813/
+3,banana republic,9,0,0,1,https://www.merriam-webster.com/wordplay/banana-republic-word-history
+3,banana republic,10,0,0,2,https://www.forbes.com/sites/danschawbel/2012/10/02/the-true-story-behind-the-banana-republic-brand/
+4,psyops society,1,0,0,1,https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media/
+4,psyops society,2,0,0,1,https://www.e-flux.com/journal/148/631017/society-of-the-psyop-part-2-ai-mind-control-and-magic/
+4,psyops society,3,0,1,1,https://en.wikipedia.org/wiki/Psychological_operations_(United_States)
+4,psyops society,4,0,0,1,https://www.adl.org/glossary/psyop
+4,psyops society,5,0,1,1,https://de.wikipedia.org/wiki/Psychologische_Kriegsf%C3%BChrung
+4,psyops society,6,0,0,1,https://bcnm.berkeley.edu/news-research/6113/society-of-the-psyop-by-trevor-paglen
+4,psyops society,7,0,1,1,https://www.eset.com/de/blog/blog/psyop-psychologische-kriegsfuehrung-im-hybriden-krieg/?srsltid=AfmBOoo9eW28GaV4oaz1sNGnNLY8FbPb87TYB1OqjWtK5fwQaOTZ6ePx
+4,psyops society,8,0,1,1,https://www.truppendienst.com/themen/beitraege/artikel/psychological-operations
+4,psyops society,9,0,0,1,https://www.bundeswehr.de/de/einsaetze-bundeswehr/psyops-einsatz-schnell-flexibel-effektiv-efp-5100550
+4,psyops society,10,0,0,1,https://www.soc.mil/4thPOG/4thPOGhome.html
+5,fine too fast,1,1,1,1,https://www.bussgeldkatalog.org/german-driving-laws/
+5,fine too fast,2,0,1,1,https://rechneronline.de/bussgeld/speeding-fines.php
+5,fine too fast,3,0,1,1,https://howtogermany.com/transport/traffic/traffic-violations-and-fines/
+5,fine too fast,4,0,0,1,https://se-legal.de/speeding-and-speed-cameras-in-germany-legal-advice/?lang=en
+5,fine too fast,5,0,1,1,https://www.eurowag.com/blog/speeding-tickets-in-germany-learn-the-rules-to-avoid-penalties
+5,fine too fast,6,0,1,1,https://inelo.com/speeding-tickets-in-germany/
+5,fine too fast,7,0,0,1,https://www.saphe.com/en/blogs/en/3-tips-on-how-to-avoid-speeding-fines?srsltid=AfmBOorP737vip0DkcjcTxFQO7N-NivNeWL1vvSzNN41LOkJpa3yb2pu
+5,fine too fast,8,0,0,1,https://www.skuola.net/grammatica-inglese/speed-limit-fine.html
+5,fine too fast,9,0,0,1,https://visitukraine.today/blog/3264/in-2024-germany-increased-fines-for-drivers-what-are-the-amounts
+5,fine too fast,10,0,0,1,https://www.ch.ch/en/vehicles-and-traffic/how-to-behave-in-road-traffic/traffic-regulations/driving-over-the-speed-limit/
