@@ -1,89 +1,89 @@
-query;1. Nicht Zeitlich;2. Explizit Zeitlich;3. Ereignis;4. Mehrdeutig;5. Aktualität;Notizen
-recycle, automobile tires;;;1;;;
-dismantling Europe's arsenal;;;1;;;
-recipe veal roti;1;;;;;
-how often should you take your toddler to the potty when potty training;;;;1;;
-boston marathon bombing;;;1;;;
-syracuse law school ranking;;;1;;;
-how do i insert notes under a slide in powerpoint;1;;1;;;
-whale watching California;;;;;;
-alternative medicine;1;;;;;
-escabeau;1;;;;;
-tropical storms;;;1;;;
-robotics;1;;;;;
-oceanographic vessels;1;;;;;
-literacy rates Africa;1;;;;;
-heroic acts;;;1;;;
-radioactive waste;1;;;;;
-family-planning aid;1;;;;;
-what to do if your partner is possessive;;;;1;;
-used car;1;;;;;
-UV damage, eyes;1;;;;;
-Cuba, sugar, exports;1;;;;;
-Berlin wall disposal;;1;;;;
-eni customer space;1;;;;;
-supercritical fluids;1;;;;;
-konna battle;;1;;;;
-what does auslan interpreted performance mean;;;;1;;
-Income Tax Evasion;1;;;;;
-price fixing;;;;1;;
-Soviet withdrawal Afghanistan;;1;;;;
-uss guardian grounding;;1;;;;
-sick building syndrome;1;;;;;
-Polygamy Polyandry Polygyny;;;;1;;
-Leaning Tower of Pisa;1;;;;;
-email scams;1;;;;;
-control of MRSA;;;;1;;
-what phone to use in europe;;;;;;
-commercial cyanide uses;1;;;;;
-compost pile;1;;;;;
-Africa polio vaccination;;1;;;;
-territorial waters dispute;1;;;;;
-wind power location;1;;;;;
-Sony cyberattack;;1;;;;
-consumer on-line shopping;1;;;;;
-declining middle class in U.S.;;;;1;;
-El Nino;;;;1;;
-Welsh devolution;;1;;;;
-shahbag protests;;1;;;;
-how does magic leap optics work;1;;;;;
-what does chicken by product meal add to pet food;1;;;;;
-what does septrin heal;1;;;;;
-sfr customer space;1;;;;;
-home child care definition;1;;;;;
-per capita alcohol consumption;1;;;;;
-Oscar winner selection;;;1;;;
-definition secondary trauma;1;;;;;
-postmenopausal estrogen Britain;1;;;;;
-Literary/Journalistic Plagiarism;1;;;;;
-what is unresponsiveness;1;;;;;
-exotic animals import;1;;;;;
-description of mesquite plant;1;;;;;
-Tibet protesters;;1;;;;
-industrial waste disposal;1;;;;;
-quran burning protests;;1;;;;
-L-tryptophan deaths;1;;;;;
-Ireland, peace talks;;1;;;;
-ethanol and food prices;;;;;1;
-how to put together a scuba regulator;1;;;;;
-Viral Hepatitis;1;;;;;
-what is the outside of a shape;1;;;;;
-how to trim blank space in excel;1;;;;;
-white collar crime sentence;1;;;;;
-U.S. invasion of Panama;;1;;;;
-hyderabad explosion;1;;;;;
-China one-child impact;;;;;1;
-Abuses of E-Mail;1;;;;;
-Total Energy;1;;;;;
-jury duty exemptions;1;;;;;
-arrests bombing WTC;;1;;;;
-baghdad bomb;;1;;;;
-meteo bordeaux;1;;;;;
-immigrants Spanish school;1;;;;;
-tourists, violence;1;;;;;
-prostate cancer detection treatment;;;1;;;
-eggs in a healthy diet;1;;;;;
-tax evasion indicted;1;;;;;
-suicides;1;;;;;
-what is the name of a baby nurse;1;;;;;
-yeast infection md;1;;;;;
+query	1. Nicht Zeitlich	2. Explizit Zeitlich	3. Ereignis	4. Mehrdeutig	5. Aktualit�t	Notizen
+recycle, automobile tires			x			
+dismantling Europe's arsenal			x			
+recipe veal roti	x					
+how often should you take your toddler to the potty when potty training				x		
+boston marathon bombing			x			
+syracuse law school ranking			x			
+how do i insert notes under a slide in powerpoint	x		x			
+whale watching California						
+alternative medicine	x					
+escabeau	x					
+tropical storms			x			
+robotics	x					
+oceanographic vessels	x					
+literacy rates Africa	x					
+heroic acts			x			
+radioactive waste	x					
+family-planning aid	x					
+what to do if your partner is possessive				x		
+used car	x					
+UV damage, eyes	x					
+Cuba, sugar, exports	x					
+Berlin wall disposal		x				
+eni customer space	x					
+supercritical fluids	x					
+konna battle		x				
+what does auslan interpreted performance mean				x		
+Income Tax Evasion	x					
+price fixing				x		
+Soviet withdrawal Afghanistan		x				
+uss guardian grounding		x				
+sick building syndrome	x					
+Polygamy Polyandry Polygyny				x		
+Leaning Tower of Pisa	x					
+email scams	x					
+control of MRSA				x		
+what phone to use in europe						
+commercial cyanide uses	x					
+compost pile	x					
+Africa polio vaccination		x				
+territorial waters dispute	x					
+wind power location	x					
+Sony cyberattack		x				
+consumer on-line shopping	x					
+declining middle class in U.S.				x		
+El Nino				x		
+Welsh devolution		x				
+shahbag protests		x				
+how does magic leap optics work	x					
+what does chicken by product meal add to pet food	x					
+what does septrin heal	x					
+sfr customer space	x					
+home child care definition	x					
+per capita alcohol consumption	x					
+Oscar winner selection			x			
+definition secondary trauma	x					
+postmenopausal estrogen Britain	x					
+Literary/Journalistic Plagiarism	x					
+what is unresponsiveness	x					
+exotic animals import	x					
+description of mesquite plant	x					
+Tibet protesters		x				
+industrial waste disposal	x					
+quran burning protests		x				
+L-tryptophan deaths	x					
+Ireland, peace talks		x				
+ethanol and food prices					x	
+how to put together a scuba regulator	x					
+Viral Hepatitis	x					
+what is the outside of a shape	x					
+how to trim blank space in excel	x					
+white collar crime sentence	x					
+U.S. invasion of Panama		x				
+hyderabad explosion	x					
+China one-child impact					x	
+Abuses of E-Mail	x					
+Total Energy	x					
+jury duty exemptions	x					
+arrests bombing WTC		x				
+baghdad bomb		x				
+meteo bordeaux	x					
+immigrants Spanish school	x					
+tourists, violence	x					
+prostate cancer detection treatment			x			
+eggs in a healthy diet	x					
+tax evasion indicted	x					
+suicides	x					
+what is the name of a baby nurse	x					
+yeast infection md	x					
