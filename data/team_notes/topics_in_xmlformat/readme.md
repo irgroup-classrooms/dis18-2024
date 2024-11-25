@@ -12,7 +12,7 @@ For the following Code, both files (xsd and xml) have to be in the same folder.
 ```bash
 xmllint --schema topics_xml_validate.xsd topic_template_ALL.xml --noout
 ```
-**Asll Files**
+**All Files**
 ```bash
 xmllint --schema topics_xml_validate.xsd *.xml --noout
 ```
