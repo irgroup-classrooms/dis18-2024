@@ -8,6 +8,11 @@ XSD used to validate xml document.
 ## Code for validation
 For the following Code, both files (xsd and xml) have to be in the same folder.
 
+**Single Files**
 ```bash
 xmllint --schema topics_xml_validate.xsd topic_template_ALL.xml --noout
+```
+**Asll Files**
+```bash
+xmllint --schema topics_xml_validate.xsd *.xml --noout
 ```
