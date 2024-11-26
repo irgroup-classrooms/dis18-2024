@@ -1,0 +1,73 @@
+<topics>
+	      <topic>
+			          <num>1</num>
+	            	<author>Andreas Large</author>
+	            	<type>time-independent</type>
+            		<title></title>
+            		<description>
+            			      H
+            		</description>
+            		<narrative>
+                  			A
+            		</narrative>
+      	</topic>
+      	<topic>
+            		<num>2</num>
+            		<author>Andreas Large</author>
+            		<type>explicit-time</type>
+            		<title>game awards winners 2024</title>
+            		<description>
+		                    Information on the winners and major awards from the most important video game award ceremonies of the year 2024.            		
+                </description>
+            		<narrative>
+                  			Relevant documents contain specific information about the "winners of the video game awards 2024", 
+                        including the "best games of the year" and major categories such as "best performance", "game of the year", "best graphics", and more. 
+                        The search results are expected to also include up-to-date information about the nominees and award events that are announced throughout the year. 
+                        This will include details about the events, winners, and award announcements that can evolve over the course of 2024.
+            		</narrative>
+      	</topic>
+      	<topic>
+            		<num>3</num>
+            		<author>Andreas Large</author>
+            		<type>event</type>
+            		<title>super bowl security measures</title>
+            		<description>
+            			      Information about the security measures implemented for the Super Bowl, including access controls,
+                        surveillance, and emergency management protocols.
+            		</description>
+            		<narrative>
+                        Relevant documents will include up-to-date information about security measures for the Super Bowl. 
+                        This may cover aspects like security checks at entrances, new surveillance technologies, the use of drones or security personnel, 
+                        and potential changes due to evolving threats or societal developments.            		
+                </narrative>
+      	</topic>
+      	<topic>
+            		<num>4</num>
+            		<author>Andreas Large</author>
+            		<type>ambiguous</type>
+            		<title>fly</title>
+            		<description>
+            			      The query seeks information about the insect "fly," including its biology and role in the ecosystem.
+            		</description>
+            		<narrative>
+                  			A relevant document would include details about flies as insects, such as their physical characteristics, habitats, and behavior. 
+                        Other meanings of "Fly," such as human flight or slang, are not relevant.
+                </narrative>
+      	</topic>
+      	<topic>
+            		<num>5</num>
+            		<author>Andreas Large</author>
+            		<type>timeliness</type>
+            		<title>election results usa</title>
+            		<description>
+                        Results of the most recent U.S. elections, including presidential elections and other important national and state-level races,
+                        with a focus on the latest available results.            		
+                </description>
+            		<narrative>
+                  			A search for election results may require the most current information on the latest election outcomes. 
+                        This could include results from the presidential election as well as other major national and regional races. 
+                        Relevant documents focus on obtaining the most up-to-date results to understand the current status of the election process,
+                        whether during election night or shortly after votes are counted.
+                </narrative>
+      	</topic>
+</topics>
