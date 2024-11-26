@@ -3,12 +3,13 @@
 		<num>1</num>
 	        <author>Andreas Large</author>
 	        <type>time-independent</type>
-            	<title></title>
+            	<title>plate tectonics</title>
             	<description>
-            		H
+            		What is the theory of plate tectonics and how does it shape the Earth's surface?
             	</description>
             	<narrative>
-                  	A
+                  	A relevant document should explain the theory of plate tectonics, 
+			focusing on the movement of Earth's lithospheric plates and their role in earthquakes, volcanic activity, and mountain formation.
             	</narrative>
       	</topic>
       	<topic>
