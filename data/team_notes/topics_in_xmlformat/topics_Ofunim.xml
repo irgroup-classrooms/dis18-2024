@@ -2,49 +2,49 @@
     <topic>
         <num>1</num>
         <author>joshua</author>
-        <type>nicht zeitlich</type>
-        <title>Rückenschmerzen</title>
-        <description>Informationen über Rückenschmerzen , wie es passieren kann und was man dagegen machen kann</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über das Lindern von Rückenschmerzen kundgeben</narrative>
+        <type>time-independent</type>
+        <title>Back Pain</title>
+        <description>Information about back pain, how it can occur, and what can be done about it</description>
+        <narrative>A relevant document should provide information on alleviating back pain</narrative>
     </topic>
     <topic>
         <num>2</num>
         <author>joshua</author>
-        <type>Mehrdeutig</type>
+        <type>ambiguous</type>
         <title>Joshua</title>
-        <description>Informationen über die Bedeutung des Namens</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über die Bedeutung des Namens geben oder auch bekannte Stars mit dem Namen</narrative>
+        <description>Information about the meaning of the name</description>
+        <narrative>A relevant document should provide information on the meaning of the name or notable figures with the name</narrative>
     </topic>
     <topic>
         <num>3</num>
         <author>joshua</author>
-        <type>Aktualität</type>
-        <title>Ampel Regierung heute</title>
-        <description>Informationen über den jetzigen Stand der Ampelregierung</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über den jetzigen Stand der Ampel Regierung geben</narrative>
+        <type>current affairs</type>
+        <title>Traffic Light Coalition Today</title>
+        <description>Information about the current state of the Traffic Light Coalition</description>
+        <narrative>A relevant document should provide information about the current state of the Traffic Light Coalition</narrative>
     </topic>
     <topic>
         <num>4</num>
         <author>joshua</author>
-        <type>explizit zeitlich</type>
-        <title>2. Weltkrieg</title>
-        <description>Informationen über den 2. Weltkrieg</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über den 2. Weltkrieg geben</narrative>
+        <type>explicit-time</type>
+        <title>World War II</title>
+        <description>Information about World War II</description>
+        <narrative>A relevant document should provide information about World War II</narrative>
     </topic>
     <topic>
         <num>5</num>
         <author>joshua</author>
-        <type>zukunft</type>
-        <title>US Wahl 3000</title>
-        <description>Informationen über Die US Wahl im Jahr 3000</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über die zukünftige US Wahl in ca. 2000 Jahren informieren und ihre Wahrscheinlichkeit schätzen</narrative>
+        <type>future</type>
+        <title>US Election 3000</title>
+        <description>Information about the US election in the year 3000</description>
+        <narrative>A relevant document should provide information about the future US election in approximately 2000 years and estimate its likelihood</narrative>
     </topic>
     <topic>
         <num>6</num>
         <author>joshua</author>
-        <type>fortlaufendes Ereignis</type>
-        <title>Schengenabkommen</title>
-        <description>Informationen über das Schengenabkommen</description>
-        <narrative>Ein relevantes Dokument sollte Informationen über das Schengenabkommen enthalten, wie z.B. neue Mitglieder, alte Mitglieder und vielleicht auch zukünftige Mitglieder</narrative>
+        <type>ongoing event</type>
+        <title>Schengen Agreement</title>
+        <description>Information about the Schengen Agreement</description>
+        <narrative>A relevant document should include information about the Schengen Agreement, such as new members, existing members, and possibly future members</narrative>
     </topic>
 </topics>
