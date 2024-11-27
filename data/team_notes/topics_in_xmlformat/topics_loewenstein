@@ -3,13 +3,13 @@
         <num>1</num>
         <author>Eric Loewenstein</author>
         <type>explicit-time</type>
-        <title>olympische spiele 2028</title>
+        <title>Olympic Games 2028</title>
         <description>
-            Informationen zu den Olympischen Sommerspielen im Jahr 2028.
+            Information about the Summer Olympic Games in 2028.
         </description>
         <narrative>
-            Relevante Dokumente sollten den genauen Veranstaltungszeitraum, die Gastgeberstadt Los Angeles und wichtige Informationen zu den geplanten Sportarten enthalten.
-            Die Berichte sollten sich spezifisch auf die Spiele im Jahr 2028 beziehen und keine allgemeinen Informationen zu früheren Olympischen Spielen enthalten.
+            Relevant documents should include the exact event schedule, the host city Los Angeles, and key details about the planned sports.
+            Reports should specifically focus on the 2028 Games and not provide general information about past Olympics.
         </narrative>
     </topic>
     <topic>
@@ -18,11 +18,11 @@
         <type>event</type>
         <title>Oktoberfest</title>
         <description>
-            Informationen über das weltweit bekannte Volksfest Oktoberfest.
+            Information about the globally renowned folk festival Oktoberfest.
         </description>
         <narrative>
-            Relevante Dokumente enthalten Informationen zur Geschichte, aktuellen Veranstaltungsdaten und Attraktionen des Oktoberfests in München.
-            Zudem können Hinweise auf Besucherzahlen und Sicherheitsvorkehrungen enthalten sein. Dokumente, die lediglich beiläufig das Oktoberfest erwähnen, sind weniger relevant.
+            Relevant documents should include information on the history, current event dates, and attractions of Oktoberfest in Munich.
+            Additionally, references to visitor numbers and safety measures may be included. Documents that only mention Oktoberfest in passing are less relevant.
         </narrative>
     </topic>
     <topic>
@@ -31,25 +31,25 @@
         <type>ambiguous</type>
         <title>Bank</title>
         <description>
-            Informationen zur Institution oder zum Möbelstück.
+            Information about the institution or the furniture.
         </description>
         <narrative>
-            Relevante Dokumente sollten entweder Details zu Finanzinstitutionen wie Banken, deren Dienstleistungen oder regulatorischen Anforderungen liefern, 
-            oder sich auf das Möbelstück Bank beziehen, z. B. in Design und Material. 
-            Unklare Erwähnungen des Begriffs ohne weiteren Kontext sind nicht relevant.
+            Relevant documents should either provide details on financial institutions like banks, their services, or regulatory requirements, 
+            or focus on the furniture item "bench," such as in design and materials. 
+            Vague mentions of the term without further context are not relevant.
         </narrative>
     </topic>
     <topic>
         <num>4</num>
         <author>Eric Loewenstein</author>
         <type>timeliness</type>
-        <title>wetterbericht europa</title>
+        <title>European Weather Report</title>
         <description>
-            Aktuelle Wetterberichte und Prognosen für Europa.
+            Current weather reports and forecasts for Europe.
         </description>
         <narrative>
-            Relevante Dokumente enthalten präzise und aktuelle Wetterdaten für verschiedene europäische Länder, darunter Temperaturen, Niederschläge und extreme Wetterwarnungen.
-            Der Fokus sollte auf tagesaktuellen Berichten liegen, während veraltete oder allgemeine Klimainformationen nicht relevant sind.
+            Relevant documents should include precise and up-to-date weather data for various European countries, including temperatures, precipitation, and extreme weather warnings.
+            The focus should be on daily reports, while outdated or general climate information is not relevant.
         </narrative>
     </topic>
 </topics>
