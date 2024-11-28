@@ -1,0 +1,51 @@
+topic_index, topic_title, order, is_relevant, url
+1, system hardening, 1, True, https://www.beyondtrust.com/resources/glossary/systems-hardening 
+1, system hardening, 2, False, https://www.fb-pro.com/was-ist-systemhaertung-welche-massnahmen-gibt-es/
+1, system hardening, 3, False, https://de.wikipedia.org/wiki/H%C3%A4rten_(Computer)
+1, system hardening, 4, True, https://blog.netwrix.com/2023/02/22/system-hardening/
+1, system hardening, 5, False, https://en.wikipedia.org/wiki/Hardening_(computing)
+1, system hardening, 6, True, https://www.ninjaone.com/blog/complete-guide-to-systems-hardening/
+1, system hardening, 7, True, https://www.puppet.com/blog/system-hardening
+1, system hardening, 8, True, https://www.geeksforgeeks.org/what-is-system-hardening/
+1, system hardening, 9, True, https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices
+1, system hardening, 10, False, https://citema.de/cyber-security-en/system-hardening-en/
+2, specs Fireblade 2020, 1, False, https://www.honda.de/motorcycles/range/super-sport/cbr1000rr-r-fireblade-sp/specifications-and-price.html
+2, specs Fireblade 2020, 2, True, https://www.1000ps.de/modellnews-3006156-neue-honda-fireblade-2020
+2, specs Fireblade 2020, 3, False, https://www.motorcyclespecs.co.za/model/Honda/honda_cbr1000rr-r_20.html
+2, specs Fireblade 2020, 4, True, https://hondanews.eu/at/de/motorcycles/media/pressreleases/196429/2020-honda-cbr1000rr-r-fireblade
+2, specs Fireblade 2020, 5, False, https://www.motorcyclespecs.co.za/model/Honda/honda_cbr1000rr-r-sp_20.html
+2, specs Fireblade 2020, 6, True, https://www.bennetts.co.uk/bikesocial/reviews/bikes/honda/honda-cbr1000rr-r-fireblade-sp-2020-review-price-spec
+2, specs Fireblade 2020, 7, True, https://www.motorcyclenews.com/bike-reviews/honda/cbr1000rr-r-fireblade/2020/
+2, specs Fireblade 2020, 8, False, https://www.motorradundreisen.de/motorraddatenbank/honda/cbr1000rr-r-fireblade-sp-11260.html
+2, specs Fireblade 2020, 9, True, https://www.1000ps.de/motorradvergleich-honda-cbr1000rr-fireblade-sp-2018-vs-honda-cbr1000rr-r-fireblade-2020-63278
+2, specs Fireblade 2020, 10, True, https://www.motorcyclenews.com/bike-reviews/honda/cbr1000rr-r-fireblade/2020/
+3, Banana republic history, 1, True, https://en.wikipedia.org/wiki/Banana_republic
+3, Banana republic history, 2, True, https://www.thecollector.com/banana-republics-facts/
+3, Banana republic history, 3, True, https://sc.edu/uofsc/posts/2022/09/conversation_banana_republic.php
+3, Banana republic history, 4, True, https://hir.harvard.edu/the-dark-side-of-bananas-imperialism-non-state-actors-and-power/
+3, Banana republic history, 5, True, https://www.thecollector.com/what-is-a-banana-republic/
+3, Banana republic history, 6, False, https://www.forbes.com/sites/danschawbel/2012/10/02/the-true-story-behind-the-banana-republic-brand/
+3, Banana republic history, 7, False, https://www.smithsonianmag.com/smart-news/where-we-got-term-banana-republic-180961813/
+3, Banana republic history, 8, False, https://www.merriam-webster.com/wordplay/banana-republic-word-history
+3, Banana republic history, 9, False, https://pmc.ncbi.nlm.nih.gov/articles/PMC151166/
+3, Banana republic history, 10, False, https://pmc.ncbi.nlm.nih.gov/articles/PMC151166/
+4, psyops society, 1, False, https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media/
+4, psyops society, 2, False, https://www.e-flux.com/journal/148/631017/society-of-the-psyop-part-2-ai-mind-control-and-magic/
+4, psyops society, 3, True, https://de.wikipedia.org/wiki/Psychologische_Kriegsf%C3%BChrung
+4, psyops society, 4, True, https://www.eset.com/de/blog/blog/psyop-psychologische-kriegsfuehrung-im-hybriden-krieg/
+4, psyops society, 5, True, https://en.wikipedia.org/wiki/Psychological_operations_(United_States)
+4, psyops society, 6, False, https://www.adl.org/glossary/psyop
+4, psyops society, 7, False, https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops
+4, psyops society, 8, False, https://bcnm.berkeley.edu/news-research/6113/society-of-the-psyop-by-trevor-paglen
+4, psyops society, 9, True, https://www.truppendienst.com/themen/beitraege/artikel/psychological-operations
+4, psyops society, 10, False, https://www.goarmysof.army.mil/PO/
+5, fine too fast, 1, False, https://www.reddit.com/r/germany/comments/192poj5/speed_fine_appeal/
+5, fine too fast, 2, True, https://howtogermany.com/transport/traffic/traffic-violations-and-fines/
+5, fine too fast, 3, True, https://www.eurowag.com/blog/speeding-tickets-in-germany-learn-the-rules-to-avoid-penalties
+5, fine too fast, 4, False, https://se-legal.de/speeding-and-speed-cameras-in-germany-legal-advice/?lang=en
+5, fine too fast, 5, True, https://inelo.com/speeding-tickets-in-germany/
+5, fine too fast, 6, False, https://www.saphe.com/en/blogs/en/3-tips-on-how-to-avoid-speeding-fines
+5, fine too fast, 7, False, https://www.gov.uk/speeding-penalties
+5, fine too fast, 8, False, https://visitukraine.today/blog/3264/in-2024-germany-increased-fines-for-drivers-what-are-the-amounts#amounts-of-fines-for-the-most-common-violations-in-germany
+5, fine too fast, 9, False, https://www.skuola.net/grammatica-inglese/speed-limit-fine.html
+5, fine too fast, 10, False, https://www.ch.ch/en/vehicles-and-traffic/how-to-behave-in-road-traffic/traffic-regulations/driving-over-the-speed-limit/
