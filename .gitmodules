@@ -1,0 +1,3 @@
+[submodule "data/team_notes/projects/task_6/rat-scrapers"]
+	path = data/team_notes/projects/task_6/rat-scrapers
+	url = git@github.com:rat-software/rat-scrapers.git
