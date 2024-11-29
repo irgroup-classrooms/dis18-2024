@@ -1,0 +1,62 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Lars Maassen</author>
+        <type>time-independent</type>
+        <title>Watch Complications</title>
+        <description>
+            Exploration of various complications used in mechanical watches, e.g., tourbillon, minute repeater, perpetual calendar.
+        </description>
+        <narrative>
+            Relevant documents should provide detailed descriptions and functionalities of specific watch complications. A general overview of quartz watches or simpler mechanisms, such as basic second hands, is irrelevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Lars Maassen</author>
+        <type>explicit-time</type>
+        <title>24 Hours of Le Mans 2024</title>
+        <description>
+            Information about the 24 Hours of Le Mans in 2024, including teams, drivers, vehicles, and results.
+        </description>
+        <narrative>
+            Relevant documents should include details about the 2024 race, such as previews, live reports, and analyses. Historical reports from other years or races unrelated to the 2024 season are irrelevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Lars Maassen</author>
+        <type>event</type>
+        <title>Geneva Watch Fair</title>
+        <description>
+            Information about the Geneva Watch Fair, one of the world's leading watch exhibitions.
+        </description>
+        <narrative>
+            Relevant documents should provide details about exhibitors, new watch models, events, and highlights of the fair. Articles about watches with no connection to the fair or focused on other events are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Lars Maassen</author>
+        <type>ambiguous</type>
+        <title>World Champion</title>
+        <description>
+            Representation of individuals or teams holding the title of World Champion in the context of motorsports or other competitions.
+        </description>
+        <narrative>
+            Relevance depends on the specific context of the title. Documents focusing on motorsport world champions, such as Formula 1 drivers or MotoGP, or on other disciplines like boxing, may be relevant. Documents using the term without a clear competition context or reference to the title are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>5</num>
+        <author>Lars Maassen</author>
+        <type>timeliness</type>
+        <title>Formula 1 Results Today</title>
+        <description>
+            Search for the current results of today's Formula 1 race or qualification.
+        </description>
+        <narrative>
+            Relevant documents must include the current results, positions, and race analyses from today's date. Outdated results or general analyses unrelated to today's race are not relevant.
+        </narrative>
+    </topic>
+</topics>
