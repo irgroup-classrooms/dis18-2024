@@ -1,3 +1,3 @@
-# Teilnehmer: Felix, Muhammed, Davit, Joshua, Timo
 # Projekt Nr. 3
-# Step 1: Google Trends (Analyse über Popularität von Querys) Daten scrapen und Zeitreihenanalyse 
+<p>Teilnehmer: Felix, Muhammed, Davit, Joshua, Timo</p>
+<p># Step 1: Google Trends (Analyse über Popularität von Querys) Daten scrapen und Zeitreihenanalyse</p>
