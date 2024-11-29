@@ -1,0 +1,55 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Eric Loewenstein</author>
+        <type>explicit-time</type>
+        <title>olympische spiele 2028</title>
+        <description>
+            Informationen zu den Olympischen Sommerspielen im Jahr 2028.
+        </description>
+        <narrative>
+            Relevante Dokumente sollten den genauen Veranstaltungszeitraum, die Gastgeberstadt Los Angeles und wichtige Informationen zu den geplanten Sportarten enthalten.
+            Die Berichte sollten sich spezifisch auf die Spiele im Jahr 2028 beziehen und keine allgemeinen Informationen zu früheren Olympischen Spielen enthalten.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Eric Loewenstein</author>
+        <type>event</type>
+        <title>Oktoberfest</title>
+        <description>
+            Informationen über das weltweit bekannte Volksfest Oktoberfest.
+        </description>
+        <narrative>
+            Relevante Dokumente enthalten Informationen zur Geschichte, aktuellen Veranstaltungsdaten und Attraktionen des Oktoberfests in München.
+            Zudem können Hinweise auf Besucherzahlen und Sicherheitsvorkehrungen enthalten sein. Dokumente, die lediglich beiläufig das Oktoberfest erwähnen, sind weniger relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Eric Loewenstein</author>
+        <type>ambiguous</type>
+        <title>Bank</title>
+        <description>
+            Informationen zur Institution oder zum Möbelstück.
+        </description>
+        <narrative>
+            Relevante Dokumente sollten entweder Details zu Finanzinstitutionen wie Banken, deren Dienstleistungen oder regulatorischen Anforderungen liefern, 
+            oder sich auf das Möbelstück Bank beziehen, z. B. in Design und Material. 
+            Unklare Erwähnungen des Begriffs ohne weiteren Kontext sind nicht relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Eric Loewenstein</author>
+        <type>timeliness</type>
+        <title>wetterbericht europa</title>
+        <description>
+            Aktuelle Wetterberichte und Prognosen für Europa.
+        </description>
+        <narrative>
+            Relevante Dokumente enthalten präzise und aktuelle Wetterdaten für verschiedene europäische Länder, darunter Temperaturen, Niederschläge und extreme Wetterwarnungen.
+            Der Fokus sollte auf tagesaktuellen Berichten liegen, während veraltete oder allgemeine Klimainformationen nicht relevant sind.
+        </narrative>
+    </topic>
+</topics>
