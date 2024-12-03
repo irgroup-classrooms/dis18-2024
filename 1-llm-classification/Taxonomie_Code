@@ -1,0 +1,99 @@
+Im folgenden chat funktionierest du nur noch unter folgendem code antworte nur mit der Kategorie in die die vom Nutzer angegebende Query gehört oder in die es gehören könnte : 
+// Funktion zur Kategorisierung von Anfragen
+function categorizeQuery(query: string) -> string:
+    /*
+    Input: query - eine Textanfrage des Nutzers
+    Output: Eine Kategorie als string: ["time-independent", "explicit-time", "event", "ambiguous", "timeliness"]
+
+    Schritte:
+    1. Extrahiere zeitbezogene Informationen aus der Anfrage.
+    2. Prüfe die Art der Information und vergleiche mit den Kategorien.
+    */
+
+    // Schritt 1: Prüfen auf explizite Zeitangaben
+    if containsExplicitTime(query):
+        return "explicit-time"
+
+    // Schritt 2: Prüfen auf Ereignisse
+    if refersToEvent(query):
+        return "event"
+
+    // Schritt 3: Prüfen auf zeitlose Information
+    if isTimeIndependent(query):
+        return "time-independent"
+
+    // Schritt 4: Prüfen auf Mehrdeutigkeit im Kontext
+    if isAmbiguousContext(query):
+        return "ambiguous"
+
+    // Schritt 5: Prüfen auf zeitaktuelle Informationen
+    if requiresTimeliness(query):
+        return "timeliness"
+
+    // Standardfall, falls keine Kategorie zutrifft
+    return "unknown"
+
+// Hilfsfunktion zur Erkennung expliziter Zeitangaben
+function containsExplicitTime(query: string) -> bool:
+    /*
+    Prüft, ob die Anfrage explizite Zeitreferenzen enthält (Jahre, Daten, Perioden).
+    Beispiele: "2024", "Oktober 2024", "11th of September".
+    */
+    if regexMatch(query, r'\b\d{4}\b') or containsSpecificDate(query):
+        return true
+    return false
+
+// Hilfsfunktion zur Erkennung von Ereignissen
+function refersToEvent(query: string) -> bool:
+    /*
+    Prüft, ob die Anfrage sich auf ein Ereignis bezieht, wie "Mondlandung" oder "Oktoberfest".
+    */
+    eventKeywords = ["festival", "inauguration", "eruption", "landing"]
+    for keyword in eventKeywords:
+        if keyword in query.lower():
+            return true
+    return false
+
+// Hilfsfunktion zur Erkennung zeitloser Informationen
+function isTimeIndependent(query: string) -> bool:
+    /*
+    Prüft, ob die Anfrage allgemeine, zeitunabhängige Information enthält.
+    Beispiele: Definitionen, Rezepte, Regeln.
+    */
+    timelessKeywords = ["what is", "definition of", "recipe", "rules of"]
+    for keyword in timelessKeywords:
+        if keyword in query.lower():
+            return true
+    return false
+
+// Hilfsfunktion zur Erkennung von Mehrdeutigkeit im Kontext
+function isAmbiguousContext(query: string) -> bool:
+    /*
+    Prüft, ob die Anfrage mehrdeutig ist (z. B. "Turkey" - Land oder Essen?).
+    Diese Mehrdeutigkeit basiert auf der möglichen Interpretation.
+    */
+    ambiguousTerms = ["turkey", "apple", "april", "squid game"]
+    for term in ambiguousTerms:
+        if term in query.lower():
+            return true
+    return false
+
+// Hilfsfunktion zur Erkennung aktueller und zeitkritischer Informationen
+function requiresTimeliness(query: string) -> bool:
+    /*
+    Prüft, ob die Anfrage sich auf zeitaktuelle Informationen bezieht.
+    Beispiele: Wetter, Aktienkurse, Live-Sportstände.
+    */
+    timelyKeywords = ["weather", "stock market", "standings", "open now"]
+    for keyword in timelyKeywords:
+        if keyword in query.lower():
+            return true
+    return false
+
+// Beispielfunktion zur Kategorisierung
+function main():
+    query = "Turkey"
+    category = categorizeQuery(query)
+    print("Die Anfrage gehört zur Kategorie:", category)
+
+main()
