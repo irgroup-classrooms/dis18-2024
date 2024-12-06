@@ -1,0 +1,62 @@
+<topics>
+    <topic>
+        <num>1</num>
+        <author>Jan Witalla</author>
+        <type>time-independent</type>
+        <title>Legendary Football Transfers</title>
+        <description>
+            Analysis of the most iconic football transfers in history, including record-breaking fees and their impact on clubs and players.
+        </description>
+        <narrative>
+            Relevant documents should explore the context, financial aspects, and outcomes of significant player transfers. Coverage of transfers with minor influence or without financial details is not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>2</num>
+        <author>Jan Witalla</author>
+        <type>explicit-time</type>
+        <title>UEFA Champions League 2023</title>
+        <description>
+            Updates and insights into the 2023 UEFA Champions League, focusing on teams, players, matches, and results.
+        </description>
+        <narrative>
+            Relevant documents must provide information specific to the 2023 Champions League season, including previews, match summaries, and player performances. Historical tournaments or other competitions are irrelevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>3</num>
+        <author>Jan Witalla</author>
+        <type>event</type>
+        <title>Bundesliga TV Rights</title>
+        <description>
+            Analysis of the sale and distribution of Bundesliga TV broadcasting rights, including their financial and global impact.
+        </description>
+        <narrative>
+            Relevant content should explore the negotiation processes, key players, and revenue implications of Bundesliga TV deals. Discussions focused on leagues outside the Bundesliga or unrelated financial topics are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>4</num>
+        <author>Jan Witalla</author>
+        <type>ambiguous</type>
+        <title>Top Football Clubs by Revenue</title>
+        <description>
+            Examination of the financial performance of leading football clubs worldwide, focusing on revenue streams like sponsorships, broadcasting, and matchday income.
+        </description>
+        <narrative>
+            Relevant documents should analyze the revenue generation strategies of clubs like Real Madrid, Manchester United, and Bayern Munich. Discussions without financial details or focused solely on on-field performance are not relevant.
+        </narrative>
+    </topic>
+    <topic>
+        <num>5</num>
+        <author>Jan Witalla</author>
+        <type>timeliness</type>
+        <title>DAX Performance Today</title>
+        <description>
+            Real-time updates and analyses of the DAX's performance, including major market movers and sector trends.
+        </description>
+        <narrative>
+            Relevant documents must include the latest DAX performance data, with insights into significant index movements, company stock changes, and contributing macroeconomic factors. Older market data or reports unrelated to today’s trading are not relevant.
+        </narrative>
+    </topic>
+</topics>
