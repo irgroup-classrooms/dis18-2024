@@ -10,3 +10,9 @@
 **GitHub:**
 - https://github.com/rat-software/rat-scrapers
 
+# Gruppenmitglieder
+
+* Henri Moersheim
+* Florian Braun
+* Maryam El Ghadioui
+* Max Wollenberg
