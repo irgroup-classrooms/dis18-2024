@@ -1,5 +1,7 @@
 # 4. Queries clustern basierend auf dem Querytext
 
+Gruppe: Kristine Jonina, Nadine Maron, Vadims Romanovskis
+
 - Viele Queries sind sehr ähnlich
 - Mehrere Querys drücken dasselbe Suchinterresse aus. Sie sind also Queryvarianten eines Topics
 - Basierend auf dem Querytext können diese Queries zusammengefasst werden
