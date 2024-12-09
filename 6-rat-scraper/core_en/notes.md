@@ -1,6 +1,7 @@
 # Notes
 * Need to install chrome. -> create new vm ^^
 * Prototype running
+* first run always raises exception because of a not started chrome driver. Fix: start a second time \_o.O_/ (look into it later..)
 
 # Changes
 ## `run`- function
