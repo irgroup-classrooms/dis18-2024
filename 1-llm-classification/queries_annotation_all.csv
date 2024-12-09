@@ -1,0 +1,441 @@
+id,query,dataset
+1_tempsum_2013,buenos aires train crash,TempSum
+2_tempsum_2013,pakistan factory fire,TempSum
+3_tempsum_2013,colorado shooting,TempSum
+4_tempsum_2013,sikh temple shooting,TempSum
+5_tempsum_2013,hurricane isaac,TempSum
+6_tempsum_2013,hurricane sandy,TempSum
+7_tempsum_2013,midwest derecho,TempSum
+8_tempsum_2013,typhoon bopha,TempSum
+9_tempsum_2013,guatemala earthquake,TempSum
+10_tempsum_2013,tel aviv bus bombing,TempSum
+11_tempsum_2014,costa concordia,TempSum
+12_tempsum_2014,european cold wave,TempSum
+13_tempsum_2014,queensland floods,TempSum
+14_tempsum_2014,boston marathon bombing,TempSum
+15_tempsum_2014,egyptian riots,TempSum
+16_tempsum_2014,quran burning protests,TempSum
+17_tempsum_2014,in amenas hostage crisis,TempSum
+18_tempsum_2014,russian protests,TempSum
+19_tempsum_2014,romanian protests,TempSum
+20_tempsum_2014,egyptian protests,TempSum
+21_tempsum_2014,russia meteor,TempSum
+22_tempsum_2014,bulgarian protests,TempSum
+23_tempsum_2014,shahbag protests,TempSum
+24_tempsum_2014,nor'easter,TempSum
+25_tempsum_2014,Southern California shooting,TempSum
+26_tempsum_2015,vauxhall helicopter crash,TempSum
+27_tempsum_2015,cyclone nilam,TempSum
+28_tempsum_2015,savar building collapse,TempSum
+29_tempsum_2015,hyderabad explosion,TempSum
+30_tempsum_2015,brazzaville explosion,TempSum
+31_tempsum_2015,india power blackouts,TempSum
+32_tempsum_2015,innocence of muslims protests,TempSum
+33_tempsum_2015,konna battle,TempSum
+34_tempsum_2015,quetta bombing,TempSum
+35_tempsum_2015,iraq bombing,TempSum
+37_tempsum_2015,los angeles arson,TempSum
+38_tempsum_2015,thane building collapsed,TempSum
+39_tempsum_2015,suicide bomber ankara,TempSum
+40_tempsum_2015,baghdad bomb,TempSum
+41_tempsum_2015,aleppo university explosion,TempSum
+42_tempsum_2015,carnival triumph fire,TempSum
+43_tempsum_2015,uss guardian grounding,TempSum
+44_tempsum_2015,aceh earthquake,TempSum
+45_tempsum_2015,haida gwaii earthquake,TempSum
+46_tempsum_2015,catalan protest,TempSum
+301_robust04,International Organized Crime,Robust 04
+302_robust04,Poliomyelitis and Post-Polio,Robust 04
+303_robust04,Hubble Telescope Achievements,Robust 04
+304_robust04,Endangered Species (Mammals),Robust 04
+305_robust04,Most Dangerous Vehicles,Robust 04
+306_robust04,African Civilian Deaths,Robust 04
+307_robust04,New Hydroelectric Projects,Robust 04
+308_robust04,Implant Dentistry,Robust 04
+309_robust04,Rap and Crime,Robust 04
+310_robust04,Radio Waves and Brain Cancer,Robust 04
+311_robust04,Industrial Espionage,Robust 04
+312_robust04,Hydroponics,Robust 04
+313_robust04,Magnetic Levitation-Maglev,Robust 04
+314_robust04,Marine Vegetation,Robust 04
+315_robust04,Unexplained Highway Accidents,Robust 04
+316_robust04,Polygamy Polyandry Polygyny,Robust 04
+317_robust04,Unsolicited Faxes,Robust 04
+318_robust04,Best Retirement Country,Robust 04
+319_robust04,New Fuel Sources,Robust 04
+320_robust04,Undersea Fiber Optic Cable,Robust 04
+321_robust04,Women in Parliaments,Robust 04
+322_robust04,International Art Crime,Robust 04
+323_robust04,Literary/Journalistic Plagiarism,Robust 04
+324_robust04,Argentine/British Relations,Robust 04
+325_robust04,Cult Lifestyles,Robust 04
+326_robust04,Ferry Sinkings,Robust 04
+327_robust04,Modern Slavery,Robust 04
+328_robust04,Pope Beatifications,Robust 04
+329_robust04,Mexican Air Pollution,Robust 04
+330_robust04,Iran-Iraq Cooperation,Robust 04
+331_robust04,World Bank Criticism,Robust 04
+332_robust04,Income Tax Evasion,Robust 04
+333_robust04,Antibiotics Bacteria Disease,Robust 04
+334_robust04,Export Controls Cryptography,Robust 04
+335_robust04,Adoptive Biological Parents,Robust 04
+336_robust04,Black Bear Attacks,Robust 04
+337_robust04,Viral Hepatitis,Robust 04
+338_robust04,Risk of Aspirin,Robust 04
+339_robust04,Alzheimer's Drug Treatment,Robust 04
+340_robust04,Land Mine Ban,Robust 04
+341_robust04,Airport Security,Robust 04
+342_robust04,Diplomatic Expulsion,Robust 04
+343_robust04,Police Deaths,Robust 04
+344_robust04,Abuses of E-Mail,Robust 04
+345_robust04,Overseas Tobacco Sales,Robust 04
+346_robust04,Educational Standards,Robust 04
+347_robust04,Wildlife Extinction,Robust 04
+348_robust04,Agoraphobia,Robust 04
+349_robust04,Metabolism,Robust 04
+350_robust04,Health and Computer Terminals,Robust 04
+351_robust04,Falkland petroleum exploration,Robust 04
+352_robust04,British Chunnel impact,Robust 04
+353_robust04,Antarctica exploration,Robust 04
+354_robust04,journalist risks,Robust 04
+355_robust04,ocean remote sensing,Robust 04
+356_robust04,postmenopausal estrogen Britain,Robust 04
+357_robust04,territorial waters dispute,Robust 04
+358_robust04,blood-alcohol fatalities,Robust 04
+359_robust04,mutual fund predictors,Robust 04
+360_robust04,drug legalization benefits,Robust 04
+361_robust04,clothing sweatshops,Robust 04
+362_robust04,human smuggling,Robust 04
+363_robust04,transportation tunnel disasters,Robust 04
+364_robust04,rabies,Robust 04
+365_robust04,El Nino,Robust 04
+366_robust04,commercial cyanide uses,Robust 04
+367_robust04,piracy,Robust 04
+368_robust04,in vitro fertilization,Robust 04
+369_robust04,anorexia nervosa bulimia,Robust 04
+370_robust04,food/drug laws,Robust 04
+371_robust04,health insurance holistic,Robust 04
+372_robust04,Native American casino,Robust 04
+373_robust04,encryption equipment export,Robust 04
+374_robust04,Nobel prize winners,Robust 04
+375_robust04,hydrogen energy,Robust 04
+376_robust04,World Court,Robust 04
+377_robust04,cigar smoking,Robust 04
+378_robust04,euro opposition,Robust 04
+379_robust04,mainstreaming,Robust 04
+380_robust04,obesity medical treatment,Robust 04
+381_robust04,alternative medicine,Robust 04
+382_robust04,hydrogen fuel automobiles,Robust 04
+383_robust04,mental illness drugs,Robust 04
+384_robust04,space station moon,Robust 04
+385_robust04,hybrid fuel cars,Robust 04
+386_robust04,teaching disabled children,Robust 04
+387_robust04,radioactive waste,Robust 04
+388_robust04,organic soil enhancement,Robust 04
+389_robust04,illegal technology transfer,Robust 04
+390_robust04,orphan drugs,Robust 04
+391_robust04,R&D drug prices,Robust 04
+392_robust04,robotics,Robust 04
+393_robust04,mercy killing,Robust 04
+394_robust04,home schooling,Robust 04
+395_robust04,tourism,Robust 04
+396_robust04,sick building syndrome,Robust 04
+397_robust04,automobile recalls,Robust 04
+398_robust04,dismantling Europe's arsenal,Robust 04
+399_robust04,oceanographic vessels,Robust 04
+400_robust04,Amazon rain forest,Robust 04
+401_robust04,"foreign minorities, Germany",Robust 04
+402_robust04,behavioral genetics,Robust 04
+403_robust04,osteoporosis,Robust 04
+404_robust04,"Ireland, peace talks",Robust 04
+405_robust04,cosmic events,Robust 04
+406_robust04,Parkinson's disease,Robust 04
+407_robust04,"poaching, wildlife preserves",Robust 04
+408_robust04,tropical storms,Robust 04
+409_robust04,"legal, Pan Am, 103",Robust 04
+410_robust04,Schengen agreement,Robust 04
+411_robust04,"salvaging, shipwreck, treasure",Robust 04
+412_robust04,airport security,Robust 04
+413_robust04,steel production,Robust 04
+414_robust04,"Cuba, sugar, exports",Robust 04
+415_robust04,"drugs, Golden Triangle",Robust 04
+416_robust04,Three Gorges Project,Robust 04
+417_robust04,creativity,Robust 04
+418_robust04,"quilts, income",Robust 04
+419_robust04,"recycle, automobile tires",Robust 04
+420_robust04,carbon monoxide poisoning,Robust 04
+421_robust04,industrial waste disposal,Robust 04
+422_robust04,"art, stolen, forged",Robust 04
+423_robust04,"Milosevic, Mirjana Markovic",Robust 04
+424_robust04,suicides,Robust 04
+425_robust04,counterfeiting money,Robust 04
+426_robust04,"law enforcement, dogs",Robust 04
+427_robust04,"UV damage, eyes",Robust 04
+428_robust04,declining birth rates,Robust 04
+429_robust04,Legionnaires' disease,Robust 04
+430_robust04,killer bee attacks,Robust 04
+431_robust04,robotic technology,Robust 04
+432_robust04,"profiling, motorists, police",Robust 04
+433_robust04,"Greek, philosophy, stoicism",Robust 04
+434_robust04,"Estonia, economy",Robust 04
+435_robust04,curbing population growth,Robust 04
+436_robust04,railway accidents,Robust 04
+437_robust04,"deregulation, gas, electric",Robust 04
+438_robust04,"tourism, increase",Robust 04
+439_robust04,"inventions, scientific discoveries",Robust 04
+440_robust04,child labor,Robust 04
+441_robust04,Lyme disease,Robust 04
+442_robust04,heroic acts,Robust 04
+443_robust04,"U.S., investment, Africa",Robust 04
+444_robust04,supercritical fluids,Robust 04
+445_robust04,women clergy,Robust 04
+446_robust04,"tourists, violence",Robust 04
+447_robust04,Stirling engine,Robust 04
+448_robust04,ship losses,Robust 04
+449_robust04,antibiotics ineffectiveness,Robust 04
+450_robust04,"King Hussein, peace",Robust 04
+601_robust04,Turkey Iraq water,Robust 04
+602_robust04,"Czech, Slovak sovereignty",Robust 04
+603_robust04,Tobacco cigarette lawsuit,Robust 04
+604_robust04,Lyme disease arthritis,Robust 04
+605_robust04,Great Britain health care,Robust 04
+606_robust04,leg traps ban,Robust 04
+607_robust04,human genetic code,Robust 04
+608_robust04,taxing social security,Robust 04
+609_robust04,per capita alcohol consumption,Robust 04
+610_robust04,minimum wage adverse impact,Robust 04
+611_robust04,Kurds Germany violence,Robust 04
+612_robust04,Tibet protesters,Robust 04
+613_robust04,Berlin wall disposal,Robust 04
+614_robust04,Flavr Savr tomato,Robust 04
+615_robust04,timber exports Asia,Robust 04
+616_robust04,Volkswagen Mexico,Robust 04
+617_robust04,Russia Cuba economy,Robust 04
+618_robust04,Ayatollah Khomeini death,Robust 04
+619_robust04,Winnie Mandela scandal,Robust 04
+620_robust04,France nuclear testing,Robust 04
+621_robust04,women ordained Church of England,Robust 04
+622_robust04,price fixing,Robust 04
+623_robust04,toxic chemical weapon,Robust 04
+624_robust04,SDI Star Wars,Robust 04
+625_robust04,arrests bombing WTC,Robust 04
+626_robust04,human stampede,Robust 04
+627_robust04,Russian food crisis,Robust 04
+628_robust04,U.S. invasion of Panama,Robust 04
+629_robust04,abortion clinic attack,Robust 04
+630_robust04,Gulf War Syndrome,Robust 04
+631_robust04,Mandela South Africa President,Robust 04
+632_robust04,southeast Asia tin mining,Robust 04
+633_robust04,Welsh devolution,Robust 04
+634_robust04,L-tryptophan deaths,Robust 04
+635_robust04,doctor assisted suicides,Robust 04
+636_robust04,jury duty exemptions,Robust 04
+637_robust04,human growth hormone (HGH),Robust 04
+638_robust04,wrongful convictions,Robust 04
+639_robust04,consumer on-line shopping,Robust 04
+640_robust04,maternity leave policies,Robust 04
+641_robust04,Valdez wildlife marine life,Robust 04
+642_robust04,Tiananmen Square protesters,Robust 04
+643_robust04,salmon dams Pacific northwest,Robust 04
+644_robust04,exotic animals import,Robust 04
+645_robust04,software piracy,Robust 04
+646_robust04,food stamps increase,Robust 04
+647_robust04,windmill electricity,Robust 04
+648_robust04,family leave law,Robust 04
+649_robust04,computer viruses,Robust 04
+650_robust04,tax evasion indicted,Robust 04
+651_robust04,U.S. ethnic population,Robust 04
+652_robust04,OIC Balkans 1990s,Robust 04
+653_robust04,ETA Basque terrorism,Robust 04
+654_robust04,same-sex schools,Robust 04
+655_robust04,ADD diagnosis treatment,Robust 04
+656_robust04,lead poisoning children,Robust 04
+657_robust04,school prayer banned,Robust 04
+658_robust04,teenage pregnancy,Robust 04
+659_robust04,cruise health safety,Robust 04
+660_robust04,whale watching California,Robust 04
+661_robust04,melanoma treatment causes,Robust 04
+662_robust04,telemarketer protection,Robust 04
+663_robust04,Agent Orange exposure,Robust 04
+664_robust04,American Indian Museum,Robust 04
+665_robust04,poverty Africa sub-Sahara,Robust 04
+666_robust04,Thatcher resignation impact,Robust 04
+667_robust04,unmarried-partner households,Robust 04
+668_robust04,"poverty, disease",Robust 04
+669_robust04,Islamic Revolution,Robust 04
+670_robust04,U.S. elections apathy,Robust 04
+671_robust04,Salvation Army benefits,Robust 04
+672_robust04,NRA membership profile,Robust 04
+673_robust04,Soviet withdrawal Afghanistan,Robust 04
+674_robust04,Greenpeace prosecuted,Robust 04
+675_robust04,Olympics training swimming,Robust 04
+676_robust04,poppy cultivation,Robust 04
+677_robust04,Leaning Tower of Pisa,Robust 04
+678_robust04,joint custody impact,Robust 04
+679_robust04,opening adoption records,Robust 04
+680_robust04,immigrants Spanish school,Robust 04
+681_robust04,wind power location,Robust 04
+682_robust04,adult immigrants English,Robust 04
+683_robust04,Czechoslovakia breakup,Robust 04
+684_robust04,part-time benefits,Robust 04
+685_robust04,Oscar winner selection,Robust 04
+686_robust04,Argentina pegging dollar,Robust 04
+687_robust04,Northern Ireland industry,Robust 04
+688_robust04,non-U.S. media bias,Robust 04
+689_robust04,family-planning aid,Robust 04
+690_robust04,college education advantage,Robust 04
+691_robust04,clear-cutting forests,Robust 04
+692_robust04,prostate cancer detection treatment,Robust 04
+693_robust04,newspapers electronic media,Robust 04
+694_robust04,compost pile,Robust 04
+695_robust04,white collar crime sentence,Robust 04
+696_robust04,safety plastic surgery,Robust 04
+697_robust04,air traffic controller,Robust 04
+698_robust04,literacy rates Africa,Robust 04
+699_robust04,term limits,Robust 04
+700_robust04,gasoline tax U.S.,Robust 04
+801_core18,Africa polio vaccination,Core 18
+802_core18,women driving in Saudi Arabia,Core 18
+803_core18,declining middle class in U.S.,Core 18
+804_core18,"""Women on 20s""",Core 18
+805_core18,eating invasive species,Core 18
+806_core18,computers and paralyzed people,Core 18
+807_core18,Chavez medical treatment in Cuba,Core 18
+808_core18,Boston marathon bombing verdict,Core 18
+809_core18,protect Earth from asteroids,Core 18
+810_core18,diabetes and toxic chemicals,Core 18
+811_core18,car hacking,Core 18
+812_core18,social media and teen suicide,Core 18
+813_core18,marijuana potency,Core 18
+814_core18,China one-child impact,Core 18
+815_core18,Jason Rezaian released from Iran,Core 18
+816_core18,federal minimum wage increase,Core 18
+817_core18,Alan Gross released by Cuba,Core 18
+818_core18,eggs in a healthy diet,Core 18
+819_core18,U.S. age demographics,Core 18
+820_core18,bacterial infection mortality rate,Core 18
+821_core18,email scams,Core 18
+822_core18,Sony cyberattack,Core 18
+823_core18,control of MRSA,Core 18
+824_core18,Bezos purchases Washington Post,Core 18
+825_core18,ethanol and food prices,Core 18
+2000511_dl22,average bahamas temperature at the end of october,DL 22
+2000719_dl22,business architect role definition,DL 22
+2001532_dl22,example of what a family advocate does,DL 22
+2001908_dl22,how do i replace the burners on a ducane grill,DL 22
+2001975_dl22,how do i insert notes under a slide in powerpoint,DL 22
+2002146_dl22,how do you root a yucca plant,DL 22
+2002269_dl22,how fast does a rabbit grow,DL 22
+2002533_dl22,how much average cost to plan a 8 tree,DL 22
+2002798_dl22,how to age steak,DL 22
+2003157_dl22,how to cook frozen ham steak on nuwave oven,DL 22
+2003322_dl22,how to dilute ceftriaxone vial,DL 22
+2003976_dl22,how to put together a scuba regulator,DL 22
+2004237_dl22,how to transfer deposit to another account online westpac,DL 22
+2004253_dl22,how to trim blank space in excel,DL 22
+2005810_dl22,what are the entities of the executive branch,DL 22
+2005861_dl22,what are the three countries in 1984,DL 22
+2006211_dl22,what does auslan interpreted performance mean,DL 22
+2006375_dl22,what does quotient of a power mean,DL 22
+2006394_dl22,what does septrin heal,DL 22
+2006627_dl22,what is 311 for,DL 22
+2007055_dl22,what is a sulfa treat,DL 22
+2007419_dl22,what is cold bridging,DL 22
+2008871_dl22,what phylum includes the ascaris and the pinworm,DL 22
+2009553_dl22,why are the cotswolds so named,DL 22
+2009871_dl22,why was the massachusetts bay colony founded,DL 22
+2012431_dl22,ebola how can it be prevented,DL 22
+2012536_dl22,how to cook pork tenderloin steaks in oven,DL 22
+2013306_dl22,who is gehan homes,DL 22
+2016333_dl22,how to make ground beef empanadas,DL 22
+2017299_dl22,where is the us open golf held this year,DL 22
+2025747_dl22,code for history of suicidal statements,DL 22
+2026150_dl22,definition secondary trauma,DL 22
+2026558_dl22,what do you call someone who writes biographies,DL 22
+2027130_dl22,home child care definition,DL 22
+2027497_dl22,how often should you take your toddler to the potty when potty training,DL 22
+2028378_dl22,when is trial by jury used,DL 22
+2029260_dl22,what is wrong with amazon prime,DL 22
+2030323_dl22,description of mesquite plant,DL 22
+2030608_dl22,define monsieur,DL 22
+2031726_dl22,yeast infection md,DL 22
+2032090_dl22,what to do if your partner is possessive,DL 22
+2032949_dl22,what is the outside of a shape,DL 22
+2032956_dl22,how much was the saturn v,DL 22
+2033232_dl22,people who have fled the us because trump,DL 22
+2033396_dl22,what is unresponsiveness,DL 22
+2033470_dl22,cities near weeki wachee springs,DL 22
+2034205_dl22,how much magnolia bark to take for anxiety,DL 22
+2034676_dl22,the population of kings grant fayetteville prior to liberty hills,DL 22
+2035009_dl22,who sang the song maybe,DL 22
+2035447_dl22,how much money do i need in bangkok,DL 22
+2035565_dl22,what does duped mean,DL 22
+2036182_dl22,number of instagram post about unicorn frappuccino,DL 22
+2036968_dl22,what to do if antibiotics cause nausea,DL 22
+2037251_dl22,how many people watch nba basketball,DL 22
+2037609_dl22,define unstop,DL 22
+2037924_dl22,what can you do with heart of palm,DL 22
+2038466_dl22,how to check if someone has a restraining order,DL 22
+2038890_dl22,syracuse law school ranking,DL 22
+2039908_dl22,what is the name of a baby nurse,DL 22
+2040287_dl22,definition of now,DL 22
+2040352_dl22,what is the weight a chevrolet suburban,DL 22
+2040613_dl22,what does london breed stand for,DL 22
+2043895_dl22,motivational theories,DL 22
+2044423_dl22,what tax form do you get from short term disability,DL 22
+2045272_dl22,what hazards come with making paint,DL 22
+2046371_dl22,functions of three regions of sm intestine,DL 22
+2049417_dl22,what is peace in french,DL 22
+2049687_dl22,what vaccination should u give show piglets,DL 22
+2053884_dl22,when a house goes into foreclosure what happens to items on the premises,DL 22
+2054355_dl22,what does chicken by product meal add to pet food,DL 22
+2055211_dl22,why does cat get restless at night,DL 22
+2055480_dl22,how many incidents of corneal abrasion,DL 22
+2055634_dl22,what type of videos can powerpoint play,DL 22
+2055795_dl22,collins the good to great,DL 22
+2056158_dl22,what phone to use in europe,DL 22
+2056323_dl22,how does magic leap optics work,DL 22
+0_longeval,Hoary teats,LongEval
+1_longeval,Office chair,LongEval
+2_longeval,Potatoes,LongEval
+3_longeval,Solar panel kit,LongEval
+4_longeval,Total Energy,LongEval
+5_longeval,anti-virus,LongEval
+6_longeval,car game,LongEval
+7_longeval,car rating,LongEval
+8_longeval,chocolate banana gateau,LongEval
+9_longeval,chocolate gateau,LongEval
+10_longeval,chocolate gateau courgette,LongEval
+11_longeval,elderberry,LongEval
+12_longeval,eni customer space,LongEval
+13_longeval,escabeau,LongEval
+14_longeval,free antivirus,LongEval
+15_longeval,gateau a la banana,LongEval
+16_longeval,ground pear,LongEval
+17_longeval,lamb tagine,LongEval
+18_longeval,lemon gateau,LongEval
+19_longeval,mackerel in the oven,LongEval
+20_longeval,mackerel recipe,LongEval
+21_longeval,meteo bordeaux,LongEval
+22_longeval,offer of employment,LongEval
+23_longeval,ohm energy,LongEval
+24_longeval,potato patty,LongEval
+25_longeval,potato salad,LongEval
+26_longeval,property tax,LongEval
+27_longeval,recipe blanquette de veau,LongEval
+28_longeval,recipe chocolate gateau,LongEval
+29_longeval,recipe potato,LongEval
+30_longeval,recipe potato salad,LongEval
+31_longeval,recipe veal roti,LongEval
+32_longeval,retirement insurance my space,LongEval
+33_longeval,sauteed potatoes,LongEval
+34_longeval,semolina gateau,LongEval
+35_longeval,sfr customer space,LongEval
+36_longeval,sosh customer space,LongEval
+37_longeval,space renault,LongEval
+38_longeval,stuffed potatoes,LongEval
+39_longeval,taxes,LongEval
+40_longeval,used car,LongEval
+41_longeval,used cars,LongEval
+42_longeval,veolia client space,LongEval
+43_longeval,war games,LongEval
