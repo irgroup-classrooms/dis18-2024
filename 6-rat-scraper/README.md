@@ -10,9 +10,12 @@
 **GitHub:**
 - https://github.com/rat-software/rat-scrapers
 
+**GitHub Fork**
+- [rat-scrapers fork](https://github.com/404rorre/rat-scrapers)
+
 # Gruppenmitglieder
 
-* Henri Moersheim
+* Henri Moersheim [Qwant Search Engine](https://www.qwant.com/?l=en)
 * Florian Braun
 * Maryam El Ghadioui
-* Max Wollenberg
+* Max Wollenberg [Core Search Engine](https://core.ac.uk/)
