@@ -59,16 +59,17 @@
             	<num>5</num>
             	<author>Andreas Large</author>
             	<type>timeliness</type>
-            	<title>election results usa</title>
+            	<title>upcoming elections michigan</title>
             	<description>
-                	Results of the most recent U.S. elections, including presidential elections and other important national and state-level races,
-                        with a focus on the latest available results.            		
+                	Information about upcoming elections in the state of Michigan, including details about the races,
+			candidates, voting procedures, and key issues that may influence the outcomes.	
                 </description>
             	<narrative>
-                  	A search for election results may require the most current information on the latest election outcomes. 
-                        This could include results from the presidential election as well as other major national and regional races. 
-                        Relevant documents focus on obtaining the most up-to-date results to understand the current status of the election process,
-                        whether during election night or shortly after votes are counted.
+                  	Relevant documents should focus on upcoming elections in Michigan, providing information about the scheduled races,
+			the candidates running, and key policy issues at stake. 
+			The search should include details on voting procedures, such as absentee or mail-in voting, early voting, and polling locations. 
+			Additionally, documents should cover any significant changes in election laws or procedures for the upcoming election cycle,
+			as well as potential factors influencing voter turnout.
                 </narrative>
       	</topic>
 </topics>
