@@ -16,13 +16,14 @@
         <num>2</num>
         <author>Kristine Jonina</author>
         <type>explicit-time</type>
-        <title>9/11</title>
+        <title>9/11 consequences</title>
         <description>
             What were the consequences of 9/11?
         </description>
         <narrative>
             A relevant document should cover the political, social, and economic impacts of September 11. 
-            Documents that do not relate to this event and its consequences are less relevant.
+            Documents that do not relate to this event and its consequences are less relevant. Documents
+            that refer to today's memorial are also not relevant.
         </narrative>
     </topic>
     <topic>
@@ -63,7 +64,7 @@
         </description>
         <narrative>
             A relevant document should name clothing items and combinations that are trending in the current 
-            season. Trends from past seasons or years are not relevant, nor is the historical origin of these trends.
+            Year. Trends from past seasons or years are not relevant, nor is the historical origin of these trends.
             Gender is irrelevant, the clothes can be for both women and men.
         </narrative>
     </topic>
